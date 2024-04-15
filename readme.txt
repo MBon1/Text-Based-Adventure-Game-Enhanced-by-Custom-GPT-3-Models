@@ -19,7 +19,13 @@ GROUP MEMBERS
 
 ================================================================
 
-A Text-Based Adventure Game that uses custom GPT-3 models to expand the number of acceptable responses to a prompt. Starting 2024, the models used as the base for our custom models have since been deprecated. As such, the game is currently unplayable.
+!!! IMPORTANT !!!
+
+Starting 2024, the models used as the base for our custom models have since been deprecated. As such, the game is currently unplayable.
+
+================================================================
+
+This project is a text-based adventure game that uses custom GPT-3 models to expand the number of acceptable responses to a prompt. 
 
 ================================================================
 
