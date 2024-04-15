@@ -29,7 +29,7 @@ To run the provided final_bonnem3_hungj2_staplp2.py file locally, you must have 
 To play the game, like most text-based adventure games, the player must type their response to given prompts provided by the game.  The game ends once the game no longer accepts user input, resulting in a “Game Over” text on failed runs whereas a successful run just stops accepting user input.  
 
 
-To quit the game for the terminal version, you can quit like you would any other application (Ctrl+c).  In the Google Colab, select the “Interrupt execution button”.  
+To quit the game for the terminal version, you can quit like you would any other application (Ctrl+c).  
 
 
 ================================================================
