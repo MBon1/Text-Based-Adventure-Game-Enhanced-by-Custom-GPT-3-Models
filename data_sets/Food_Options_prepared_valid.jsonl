@@ -1,0 +1,198 @@
+{"prompt":"I'd like some toast today ->","completion":" toast"}
+{"prompt":"I pick up some toast for breakfast ->","completion":" toast"}
+{"prompt":"Give me some berry ->","completion":" berries"}
+{"prompt":"Go Hungry ->","completion":" hungry"}
+{"prompt":"I'd like some toast, please. ->","completion":" toast"}
+{"prompt":"Toast me up, would you? ->","completion":" toast"}
+{"prompt":"Toast, please! ->","completion":" toast"}
+{"prompt":"Can you whip up some toast for me? ->","completion":" toast"}
+{"prompt":"Would it be possible to have some toast? ->","completion":" toast"}
+{"prompt":"How about some toast, would you kindly? ->","completion":" toast"}
+{"prompt":"Toast would be great right now, can you make some? ->","completion":" toast"}
+{"prompt":"Would you mind making me some toast, please? ->","completion":" toast"}
+{"prompt":"Can you make me a piece of toast, please? ->","completion":" toast"}
+{"prompt":"Toast me some bread, would you kindly? ->","completion":" toast"}
+{"prompt":"I'll have some toast, please. ->","completion":" toast"}
+{"prompt":"Toast is what I'm having. ->","completion":" toast"}
+{"prompt":"I'm going to get me some toast. ->","completion":" toast"}
+{"prompt":"Toast is what I'm craving right now. ->","completion":" toast"}
+{"prompt":"I'll be enjoying a lovely piece of toast. ->","completion":" toast"}
+{"prompt":"Toast is what's on the table for me. ->","completion":" toast"}
+{"prompt":"Toast is my breakfast staple. ->","completion":" toast"}
+{"prompt":"Toast is what's on the menu for me this morning. ->","completion":" toast"}
+{"prompt":"I'll be enjoying a tasty piece of toast. ->","completion":" toast"}
+{"prompt":"I'm going to have some deliciously toasted bread. ->","completion":" toast"}
+{"prompt":"Toast is my breakfast comfort food. ->","completion":" toast"}
+{"prompt":"I'll be having a nice and simple piece of toast. ->","completion":" toast"}
+{"prompt":"Toast is one of my favorite breakfast foods. ->","completion":" toast"}
+{"prompt":"Can you give me some eggs? ->","completion":" eggs"}
+{"prompt":"I'll take some eggs, please. ->","completion":" eggs"}
+{"prompt":"Can you prepare some eggs for me? ->","completion":" eggs"}
+{"prompt":"May I have some eggs, please? ->","completion":" eggs"}
+{"prompt":"Some eggs will do, please. ->","completion":" eggs"}
+{"prompt":"I'd like to have some eggs, if that's alright. ->","completion":" eggs"}
+{"prompt":"I'm going to have the eggs, please. ->","completion":" eggs"}
+{"prompt":"May I have some eggs on my plate, please? ->","completion":" eggs"}
+{"prompt":"Can I please have some eggs for breakfast? ->","completion":" eggs"}
+{"prompt":"I'd like to order some eggs, please. ->","completion":" eggs"}
+{"prompt":"I'd like to get some eggs. ->","completion":" eggs"}
+{"prompt":"Some eggs sound good right now. ->","completion":" eggs"}
+{"prompt":"I'm going to have eggs in a basket. ->","completion":" eggs"}
+{"prompt":"I have a craving for eggs. ->","completion":" eggs"}
+{"prompt":"I'm hankering for some eggs. ->","completion":" eggs"}
+{"prompt":"I would prefer to have some eggs. ->","completion":" eggs"}
+{"prompt":"I want to indulge in some eggs. ->","completion":" eggs"}
+{"prompt":"I have a desire for eggs. ->","completion":" eggs"}
+{"prompt":"I have a strong urge for some eggs. ->","completion":" eggs"}
+{"prompt":"I want eggs for breakfast, lunch, and dinner. ->","completion":" eggs"}
+{"prompt":"Can I have some berries, please? ->","completion":" berries"}
+{"prompt":"I'd love some berries with my breakfast. ->","completion":" berries"}
+{"prompt":"I'm hoping to have some berries for dessert. ->","completion":" berries"}
+{"prompt":"Berries are calling my name. ->","completion":" berries"}
+{"prompt":"I need some berries to satisfy my sweet tooth. ->","completion":" berries"}
+{"prompt":"I'm looking for a burst of flavor, and berries will do the trick. ->","completion":" berries"}
+{"prompt":"I want to enjoy some seasonal berries. ->","completion":" berries"}
+{"prompt":"I'm hoping to have some berries for my afternoon snack. ->","completion":" berries"}
+{"prompt":"I'm going to enjoy the taste of some ripe berries. ->","completion":" berries"}
+{"prompt":"I'm going to satisfy my sweet tooth with some berries. ->","completion":" berries"}
+{"prompt":"I'm going to bake with some berries. ->","completion":" berries"}
+{"prompt":"I'm going to indulge in some blueberries. ->","completion":" berries"}
+{"prompt":"I'm going to eat some mulberries with my yogurt. ->","completion":" berries"}
+{"prompt":"I'm going to eat some quince for their unique flavor. ->","completion":" berries"}
+{"prompt":"I'm going to snack on some mulberries as a midday pick-me-up. ->","completion":" berries"}
+{"prompt":"I love to eat berries as a healthy dessert option. ->","completion":" berries"}
+{"prompt":"Berries are a great addition to salads and dressings. ->","completion":" berries"}
+{"prompt":"I'm taking a food break. ->","completion":" hungry"}
+{"prompt":"I'm abstemious from food at the moment. ->","completion":" hungry"}
+{"prompt":"I'm on a food fast. ->","completion":" hungry"}
+{"prompt":"I'm forgoing food for the time being. ->","completion":" hungry"}
+{"prompt":"I'm not having any food today. ->","completion":" hungry"}
+{"prompt":"I'm abstaining from food to improve my health. ->","completion":" hungry"}
+{"prompt":"I decline the food. ->","completion":" hungry"}
+{"prompt":"I am not indulging in the food. ->","completion":" hungry"}
+{"prompt":"I am abstaining from consuming the food. ->","completion":" hungry"}
+{"prompt":"I am taking a break from the food. ->","completion":" hungry"}
+{"prompt":"I am on a food strike and skipping meals. ->","completion":" hungry"}
+{"prompt":"I am not in the mood for the food. ->","completion":" hungry"}
+{"prompt":"I am leaving out the food. ->","completion":" hungry"}
+{"prompt":"I am abstaining from the food for religious purposes. ->","completion":" hungry"}
+{"prompt":"I am skipping this food as I have already had enough. ->","completion":" hungry"}
+{"prompt":"I am not having the food as it's not suitable for my palate. ->","completion":" hungry"}
+{"prompt":"I select to skip meals. ->","completion":" hungry"}
+{"prompt":"I intentionally choose to experience hunger. ->","completion":" hungry"}
+{"prompt":"egg? ->","completion":" eggs"}
+{"prompt":"Order berry ->","completion":" berries"}
+{"prompt":"Read ->","completion":" invalid"}
+{"prompt":"Skate ->","completion":" invalid"}
+{"prompt":"Surf ->","completion":" invalid"}
+{"prompt":"Study ->","completion":" invalid"}
+{"prompt":"Teach ->","completion":" invalid"}
+{"prompt":"Invent ->","completion":" invalid"}
+{"prompt":"Research ->","completion":" invalid"}
+{"prompt":"Travel ->","completion":" invalid"}
+{"prompt":"Weave ->","completion":" invalid"}
+{"prompt":"Garden ->","completion":" invalid"}
+{"prompt":"Foster ->","completion":" invalid"}
+{"prompt":"Adopt ->","completion":" invalid"}
+{"prompt":"Adapt ->","completion":" invalid"}
+{"prompt":"Coordinate ->","completion":" invalid"}
+{"prompt":"Navigate ->","completion":" invalid"}
+{"prompt":"Protect ->","completion":" invalid"}
+{"prompt":"Encourage ->","completion":" invalid"}
+{"prompt":"Embrace ->","completion":" invalid"}
+{"prompt":"Lead ->","completion":" invalid"}
+{"prompt":"Enrich ->","completion":" invalid"}
+{"prompt":"Guide ->","completion":" invalid"}
+{"prompt":"Tutor ->","completion":" invalid"}
+{"prompt":"Implement ->","completion":" invalid"}
+{"prompt":"Rent ->","completion":" invalid"}
+{"prompt":"Laptop ->","completion":" invalid"}
+{"prompt":"Clock ->","completion":" invalid"}
+{"prompt":"Coffee ->","completion":" invalid"}
+{"prompt":"Camera ->","completion":" invalid"}
+{"prompt":"Rain ->","completion":" invalid"}
+{"prompt":"Window ->","completion":" invalid"}
+{"prompt":"Beach ->","completion":" invalid"}
+{"prompt":"Hat ->","completion":" invalid"}
+{"prompt":"Moon ->","completion":" invalid"}
+{"prompt":"Sandal ->","completion":" invalid"}
+{"prompt":"Butterfly ->","completion":" invalid"}
+{"prompt":"Rose ->","completion":" invalid"}
+{"prompt":"Shoes ->","completion":" invalid"}
+{"prompt":"Grass ->","completion":" invalid"}
+{"prompt":"Balloon ->","completion":" invalid"}
+{"prompt":"Bridge ->","completion":" invalid"}
+{"prompt":"Sand ->","completion":" invalid"}
+{"prompt":"Sun ->","completion":" invalid"}
+{"prompt":"Elephant ->","completion":" invalid"}
+{"prompt":"Chess ->","completion":" invalid"}
+{"prompt":"Kite ->","completion":" invalid"}
+{"prompt":"Bag ->","completion":" invalid"}
+{"prompt":"River ->","completion":" invalid"}
+{"prompt":"Oven ->","completion":" invalid"}
+{"prompt":"Marker ->","completion":" invalid"}
+{"prompt":"Ladder ->","completion":" invalid"}
+{"prompt":"I'm not going to enjoy some acai berries as a refreshing snack. ->","completion":" invalid"}
+{"prompt":"I would not like some berries today ->","completion":" invalid"}
+{"prompt":"I would not like eggs for breakfast. ->","completion":" invalid"}
+{"prompt":"I would not love some berries with my breakfast. ->","completion":" invalid"}
+{"prompt":"I would not like to try a mix of different berries. ->","completion":" invalid"}
+{"prompt":"I not get eggs for breakfast today ->","completion":" invalid"}
+{"prompt":"Could I not get some toast, please? ->","completion":" invalid"}
+{"prompt":"Can I not get a slice of toast? ->","completion":" invalid"}
+{"prompt":"I'm not having. ->","completion":" invalid"}
+{"prompt":"I'm not craving right now. ->","completion":" invalid"}
+{"prompt":"I'm not going to be savoring some toast. ->","completion":" invalid"}
+{"prompt":"I'm not going to have some yummy toast. ->","completion":" invalid"}
+{"prompt":"I'm not going to have a slice of delicious toast. ->","completion":" invalid"}
+{"prompt":"I'm not going to indulge in some toasted bread. ->","completion":" invalid"}
+{"prompt":"I'm not having to start my day. ->","completion":" invalid"}
+{"prompt":"I'm not partial to a good slice of toast. ->","completion":" invalid"}
+{"prompt":"I'm not going to order some eggs. ->","completion":" invalid"}
+{"prompt":"I'm not going to make myself some eggs. ->","completion":" invalid"}
+{"prompt":"I'm not going to cook up some eggs. ->","completion":" invalid"}
+{"prompt":"I'm not going to indulge in some berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to savor some berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to enjoy a handful of berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to have some berries as a snack. ->","completion":" invalid"}
+{"prompt":"I'm not going to satisfy my sweet tooth with some berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to munch on some berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to enjoy some berries on their own. ->","completion":" invalid"}
+{"prompt":"I'm not going to eat some strawberries. ->","completion":" invalid"}
+{"prompt":"I'm not going to devour some blackberries. ->","completion":" invalid"}
+{"prompt":"I'm not going to munch on some goji berries. ->","completion":" invalid"}
+{"prompt":"I'm not going to enjoy some papayas for their tropical taste. ->","completion":" invalid"}
+{"prompt":"I'm not going to eat some quince for their unique flavor. ->","completion":" invalid"}
+{"prompt":"I'm not fasting. ->","completion":" invalid"}
+{"prompt":"I'm not abstaining from food. ->","completion":" invalid"}
+{"prompt":"I'm not on a food hiatus. ->","completion":" invalid"}
+{"prompt":"I'm not refraining from consuming any nourishment. ->","completion":" invalid"}
+{"prompt":"I'm not abstemious from food at the moment. ->","completion":" invalid"}
+{"prompt":"I'm not practicing food abstinence. ->","completion":" invalid"}
+{"prompt":"I'm not taking a food hiatus for personal reasons. ->","completion":" invalid"}
+{"prompt":"I'm not on a food abstinence program. ->","completion":" invalid"}
+{"prompt":"I'm not avoiding eating for health purposes. ->","completion":" invalid"}
+{"prompt":"I'm not abstaining from food to improve my health. ->","completion":" invalid"}
+{"prompt":"I will not take some toast, please and thank you. ->","completion":" invalid"}
+{"prompt":"I will not take some toast, if you don't mind. ->","completion":" invalid"}
+{"prompt":"I will not be enjoying a piece of toast. ->","completion":" invalid"}
+{"prompt":"I will not have some eggs, please. ->","completion":" invalid"}
+{"prompt":"I will not take some eggs, thanks. ->","completion":" invalid"}
+{"prompt":"I will not have a plate of eggs, please. ->","completion":" invalid"}
+{"prompt":"I will not have a bowl of berries, please. ->","completion":" invalid"}
+{"prompt":"I am not in the mood for some eggs. ->","completion":" invalid"}
+{"prompt":"I am not abstaining from consuming the food. ->","completion":" invalid"}
+{"prompt":"I am not taking a break from the food. ->","completion":" invalid"}
+{"prompt":"I am not leaving out the food. ->","completion":" invalid"}
+{"prompt":"I am not taking a pass on the food for now. ->","completion":" invalid"}
+{"prompt":"I don't want to order some eggs. ->","completion":" invalid"}
+{"prompt":"I would not like to have some berries. ->","completion":" invalid"}
+{"prompt":"Can you not make me some toast? ->","completion":" invalid"}
+{"prompt":"Can you not whip me up some toast, please? ->","completion":" invalid"}
+{"prompt":"Can you not cook me up some eggs, please? ->","completion":" invalid"}
+{"prompt":"Can you not get me some eggs, please? ->","completion":" invalid"}
+{"prompt":"I do not can't deny that I like toast. ->","completion":" invalid"}
+{"prompt":"I do not have a desire for eggs. ->","completion":" invalid"}
+{"prompt":"I do not always have a container of berries in my fridge. ->","completion":" invalid"}
+{"prompt":"I do not opt to starve. ->","completion":" invalid"}
+{"prompt":"I do not opt to abstain from consuming food. ->","completion":" invalid"}

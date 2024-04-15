@@ -1,0 +1,864 @@
+{"prompt":"Interact ->","completion":" invalid"}
+{"prompt":"Telephone ->","completion":" invalid"}
+{"prompt":"Unrestrained ->","completion":" invalid"}
+{"prompt":"Stay immobile ->","completion":" invalid"}
+{"prompt":"Do not Make a northward progression ->","completion":" invalid"}
+{"prompt":"Stay on the spot ->","completion":" invalid"}
+{"prompt":"Do not head in an easterly direction ->","completion":" invalid"}
+{"prompt":"Do not head in a southward direction ->","completion":" invalid"}
+{"prompt":"Do not Walk towards the east ->","completion":" invalid"}
+{"prompt":"Refuse to travel eastward ->","completion":" invalid"}
+{"prompt":"Do not Make an ascent to the north ->","completion":" invalid"}
+{"prompt":"Stay put ->","completion":" invalid"}
+{"prompt":"Stay peaceful ->","completion":" invalid"}
+{"prompt":"Make a northward transition ->","completion":" north"}
+{"prompt":"Foster ->","completion":" invalid"}
+{"prompt":"Rain ->","completion":" invalid"}
+{"prompt":"Build ->","completion":" invalid"}
+{"prompt":"Jellyfish ->","completion":" invalid"}
+{"prompt":"Do not move towards the southern direction ->","completion":" invalid"}
+{"prompt":"Do not move to the upward side ->","completion":" invalid"}
+{"prompt":"Shift to the left side ->","completion":" west"}
+{"prompt":"Make a westward transition ->","completion":" west"}
+{"prompt":"Ring ->","completion":" invalid"}
+{"prompt":"Encourage ->","completion":" invalid"}
+{"prompt":"Snowflake ->","completion":" invalid"}
+{"prompt":"Do not head towards the western side ->","completion":" invalid"}
+{"prompt":"Central plaza ->","completion":" invalid"}
+{"prompt":"Contribute ->","completion":" invalid"}
+{"prompt":"Do not Make a shift towards the south ->","completion":" invalid"}
+{"prompt":"Impeccable ->","completion":" invalid"}
+{"prompt":"Don't wave your hands ->","completion":" invalid"}
+{"prompt":"Firm ->","completion":" invalid"}
+{"prompt":"Advance to the western side ->","completion":" west"}
+{"prompt":"Southern orientation ->","completion":" south"}
+{"prompt":"Move towards the northward side ->","completion":" north"}
+{"prompt":"Stay cemented ->","completion":" invalid"}
+{"prompt":"Pure ->","completion":" invalid"}
+{"prompt":"Proceed in a westwardly direction ->","completion":" west"}
+{"prompt":"Shift to the bottom direction ->","completion":" south"}
+{"prompt":"Do not Take a westward course ->","completion":" invalid"}
+{"prompt":"Nurture ->","completion":" invalid"}
+{"prompt":"Established ->","completion":" invalid"}
+{"prompt":"Stagnant ->","completion":" invalid"}
+{"prompt":"Refuse to go downward ->","completion":" invalid"}
+{"prompt":"Do not head towards the eastern side ->","completion":" invalid"}
+{"prompt":"Upwardly ->","completion":" north"}
+{"prompt":"Go westward ->","completion":" west"}
+{"prompt":"Move westerly ->","completion":" west"}
+{"prompt":"Ground zero ->","completion":" invalid"}
+{"prompt":"Umbrella ->","completion":" invalid"}
+{"prompt":"Easternmost ->","completion":" east"}
+{"prompt":"Shirt ->","completion":" invalid"}
+{"prompt":"Navigate ->","completion":" invalid"}
+{"prompt":"Sunward direction ->","completion":" east"}
+{"prompt":"Don't change your stance ->","completion":" invalid"}
+{"prompt":"Center field ->","completion":" invalid"}
+{"prompt":"Refuse to travel in a southerly manner ->","completion":" invalid"}
+{"prompt":"Don't make any sudden movements ->","completion":" invalid"}
+{"prompt":"Sandal ->","completion":" invalid"}
+{"prompt":"Do not move portside ->","completion":" invalid"}
+{"prompt":"Clock ->","completion":" invalid"}
+{"prompt":"Do not Make a southward progression ->","completion":" invalid"}
+{"prompt":"Steadfast ->","completion":" invalid"}
+{"prompt":"Make a downward movement ->","completion":" south"}
+{"prompt":"Center mount ->","completion":" invalid"}
+{"prompt":"Center of power ->","completion":" invalid"}
+{"prompt":"I do not go right ->","completion":" invalid"}
+{"prompt":"Backpacking ->","completion":" invalid"}
+{"prompt":"Newspaper ->","completion":" invalid"}
+{"prompt":"Center of research ->","completion":" invalid"}
+{"prompt":"Lipstick ->","completion":" invalid"}
+{"prompt":"Do not Shift to the upward side ->","completion":" invalid"}
+{"prompt":"Stay firm ->","completion":" invalid"}
+{"prompt":"Upgrade ->","completion":" invalid"}
+{"prompt":"Northwardly bound ->","completion":" north"}
+{"prompt":"Stay where you are ->","completion":" invalid"}
+{"prompt":"Refuse to Northward progression ->","completion":" invalid"}
+{"prompt":"Refuse to go in an easterly direction ->","completion":" invalid"}
+{"prompt":"Do not move East ->","completion":" invalid"}
+{"prompt":"Refuse to go in a northerly direction ->","completion":" invalid"}
+{"prompt":"Travel in an easterly fashion ->","completion":" east"}
+{"prompt":"Don't shift a inch ->","completion":" invalid"}
+{"prompt":"Northerly direction ->","completion":" north"}
+{"prompt":"Shift towards the westward point ->","completion":" west"}
+{"prompt":"Unweakened ->","completion":" invalid"}
+{"prompt":"Teach ->","completion":" invalid"}
+{"prompt":"Invariable ->","completion":" invalid"}
+{"prompt":"Analyze ->","completion":" invalid"}
+{"prompt":"Do not Walk towards the west ->","completion":" invalid"}
+{"prompt":"Travel due left ->","completion":" west"}
+{"prompt":"Do not move towards the eastern point ->","completion":" invalid"}
+{"prompt":"Walk towards the north ->","completion":" north"}
+{"prompt":"Sun ->","completion":" invalid"}
+{"prompt":"Blanket ->","completion":" invalid"}
+{"prompt":"Dive ->","completion":" invalid"}
+{"prompt":"Refuse to Journey east ->","completion":" invalid"}
+{"prompt":"Do not move towards the westerly point ->","completion":" invalid"}
+{"prompt":"T-shirt ->","completion":" invalid"}
+{"prompt":"Northish ->","completion":" north"}
+{"prompt":"Right ->","completion":" east"}
+{"prompt":"Stapler ->","completion":" invalid"}
+{"prompt":"Middle point ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the westerly point ->","completion":" invalid"}
+{"prompt":"Refuse to Make a northward advance ->","completion":" invalid"}
+{"prompt":"Solve ->","completion":" invalid"}
+{"prompt":"Remain in place ->","completion":" invalid"}
+{"prompt":"Pen ->","completion":" invalid"}
+{"prompt":"Go in a westerly direction ->","completion":" west"}
+{"prompt":"Center of percussion ->","completion":" invalid"}
+{"prompt":"Stationed ->","completion":" invalid"}
+{"prompt":"Don't fiddle with anything ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the easternmost point. ->","completion":" invalid"}
+{"prompt":"Travel towards the westward side ->","completion":" west"}
+{"prompt":"Do not proceed towards the southward side ->","completion":" invalid"}
+{"prompt":"West ->","completion":" west"}
+{"prompt":"Unswerving ->","completion":" invalid"}
+{"prompt":"Eastern direction ->","completion":" east"}
+{"prompt":"Explore ->","completion":" invalid"}
+{"prompt":"Head in an easterly direction ->","completion":" east"}
+{"prompt":"Journey to the south ->","completion":" south"}
+{"prompt":"Center lane ->","completion":" invalid"}
+{"prompt":"Make an eastward advance ->","completion":" east"}
+{"prompt":"Set off in an eastern direction ->","completion":" east"}
+{"prompt":"Plane ->","completion":" invalid"}
+{"prompt":"Pizza ->","completion":" invalid"}
+{"prompt":"Northward ->","completion":" north"}
+{"prompt":"Travel in a westerly manner ->","completion":" west"}
+{"prompt":"Bicycle ->","completion":" invalid"}
+{"prompt":"Do not Shift to the eastern direction ->","completion":" invalid"}
+{"prompt":"Center of attraction ->","completion":" invalid"}
+{"prompt":"Unimpaired ->","completion":" invalid"}
+{"prompt":"Do not Make a westward shift ->","completion":" invalid"}
+{"prompt":"Set off in a southerly direction ->","completion":" south"}
+{"prompt":"Make a northward shift ->","completion":" north"}
+{"prompt":"Pristine ->","completion":" invalid"}
+{"prompt":"Epicenter ->","completion":" invalid"}
+{"prompt":"Unvaried ->","completion":" invalid"}
+{"prompt":"Do not Make a westward transition ->","completion":" invalid"}
+{"prompt":"Laptop ->","completion":" invalid"}
+{"prompt":"Journey towards the western side ->","completion":" west"}
+{"prompt":"Scissors ->","completion":" invalid"}
+{"prompt":"Head towards the eastern side ->","completion":" east"}
+{"prompt":"Refuse to travel in an easterly fashion ->","completion":" invalid"}
+{"prompt":"Shoes ->","completion":" invalid"}
+{"prompt":"Geometric center ->","completion":" invalid"}
+{"prompt":"Leftmostward ->","completion":" west"}
+{"prompt":"Travel leftward bound ->","completion":" west"}
+{"prompt":"Refuse to Journey towards the eastern side ->","completion":" invalid"}
+{"prompt":"Move towards the top ->","completion":" north"}
+{"prompt":"Walk towards the west ->","completion":" west"}
+{"prompt":"Center court ->","completion":" invalid"}
+{"prompt":"Southernmost ->","completion":" south"}
+{"prompt":"Refuse to travel towards the northward side ->","completion":" invalid"}
+{"prompt":"Sandwich ->","completion":" invalid"}
+{"prompt":"Mentor ->","completion":" invalid"}
+{"prompt":"I head Northward ->","completion":" north"}
+{"prompt":"Make a move towards the south ->","completion":" south"}
+{"prompt":"Make a shift towards the south ->","completion":" south"}
+{"prompt":"Do not Make a northward movement ->","completion":" invalid"}
+{"prompt":"Don't nod your head ->","completion":" invalid"}
+{"prompt":"Refuse to go to the left ->","completion":" invalid"}
+{"prompt":"Intact ->","completion":" invalid"}
+{"prompt":"Pencil ->","completion":" invalid"}
+{"prompt":"Take a westward course ->","completion":" west"}
+{"prompt":"Proceed on a westward trajectory ->","completion":" west"}
+{"prompt":"Watermelon ->","completion":" invalid"}
+{"prompt":"Invent ->","completion":" invalid"}
+{"prompt":"Northerly ->","completion":" north"}
+{"prompt":"Move towards the northerly point ->","completion":" north"}
+{"prompt":"Hold still ->","completion":" invalid"}
+{"prompt":"Hug ->","completion":" invalid"}
+{"prompt":"Do not Make a rightward move ->","completion":" invalid"}
+{"prompt":"Radio ->","completion":" invalid"}
+{"prompt":"Elephant ->","completion":" invalid"}
+{"prompt":"Proceed towards the easternmost point. ->","completion":" east"}
+{"prompt":"Proceed towards the eastward side ->","completion":" east"}
+{"prompt":"Coffee ->","completion":" invalid"}
+{"prompt":"Donate ->","completion":" invalid"}
+{"prompt":"Tent ->","completion":" invalid"}
+{"prompt":"Journey east ->","completion":" east"}
+{"prompt":"Go leftward ->","completion":" west"}
+{"prompt":"Take a southerly course ->","completion":" south"}
+{"prompt":"Shift to the western direction ->","completion":" west"}
+{"prompt":"Nexus ->","completion":" invalid"}
+{"prompt":"I go left ->","completion":" west"}
+{"prompt":"Talk ->","completion":" invalid"}
+{"prompt":"Sofa ->","completion":" invalid"}
+{"prompt":"Spoon ->","completion":" invalid"}
+{"prompt":"Skateboard ->","completion":" invalid"}
+{"prompt":"Do not move towards the bottom ->","completion":" invalid"}
+{"prompt":"Unmodifiable ->","completion":" invalid"}
+{"prompt":"Rightward ->","completion":" east"}
+{"prompt":"Travel in a southerly manner ->","completion":" south"}
+{"prompt":"Make a move towards the east ->","completion":" east"}
+{"prompt":"Pillow ->","completion":" invalid"}
+{"prompt":"Head towards the southern side ->","completion":" south"}
+{"prompt":"Refuse to Journey towards the northern horizon ->","completion":" invalid"}
+{"prompt":"Do not Shift to the lower side ->","completion":" invalid"}
+{"prompt":"Center divider ->","completion":" invalid"}
+{"prompt":"I do not move to the South ->","completion":" invalid"}
+{"prompt":"Move towards the eastern point ->","completion":" east"}
+{"prompt":"Do not Make a shift towards the east ->","completion":" invalid"}
+{"prompt":"Skate ->","completion":" invalid"}
+{"prompt":"I go up ->","completion":" north"}
+{"prompt":"Park ->","completion":" invalid"}
+{"prompt":"Unimpeded ->","completion":" invalid"}
+{"prompt":"The core of the issue ->","completion":" invalid"}
+{"prompt":"Do not move South ->","completion":" invalid"}
+{"prompt":"Refuse to Journey north ->","completion":" invalid"}
+{"prompt":"Make a lateral move to the south ->","completion":" south"}
+{"prompt":"Firewood ->","completion":" invalid"}
+{"prompt":"Center circle ->","completion":" invalid"}
+{"prompt":"Refuse to travel to the left ->","completion":" invalid"}
+{"prompt":"Unbruised ->","completion":" invalid"}
+{"prompt":"Execute ->","completion":" invalid"}
+{"prompt":"Downside ->","completion":" south"}
+{"prompt":"Do not Shift to the westward direction ->","completion":" invalid"}
+{"prompt":"Stay relaxed ->","completion":" invalid"}
+{"prompt":"Stay unperturbed ->","completion":" invalid"}
+{"prompt":"Do not move leftward ->","completion":" invalid"}
+{"prompt":"Stay motionless ->","completion":" invalid"}
+{"prompt":"Calculate ->","completion":" invalid"}
+{"prompt":"Center screw ->","completion":" invalid"}
+{"prompt":"Travel towards the southern side ->","completion":" south"}
+{"prompt":"Journey towards the southern side ->","completion":" south"}
+{"prompt":"Unhurried ->","completion":" invalid"}
+{"prompt":"Proceed on an eastward trajectory ->","completion":" east"}
+{"prompt":"Paint ->","completion":" invalid"}
+{"prompt":"Proceed towards the southward side ->","completion":" south"}
+{"prompt":"Do not proceed northbound ->","completion":" invalid"}
+{"prompt":"Study ->","completion":" invalid"}
+{"prompt":"Northerward ->","completion":" north"}
+{"prompt":"Don't move a muscle ->","completion":" invalid"}
+{"prompt":"Set off in a westerly manner ->","completion":" west"}
+{"prompt":"Make a lateral move to the east ->","completion":" east"}
+{"prompt":"Northtop ->","completion":" north"}
+{"prompt":"Statue ->","completion":" invalid"}
+{"prompt":"Occident ->","completion":" west"}
+{"prompt":"Move to the left-hand side ->","completion":" west"}
+{"prompt":"Do not head east ->","completion":" invalid"}
+{"prompt":"Westwardly ->","completion":" west"}
+{"prompt":"Stay locked in place ->","completion":" invalid"}
+{"prompt":"Globe ->","completion":" invalid"}
+{"prompt":"Unmovable ->","completion":" invalid"}
+{"prompt":"Lowerward ->","completion":" south"}
+{"prompt":"Do not Make a move towards the east ->","completion":" invalid"}
+{"prompt":"Facilitate ->","completion":" invalid"}
+{"prompt":"Accomplish ->","completion":" invalid"}
+{"prompt":"Maintain ->","completion":" invalid"}
+{"prompt":"Move towards the bottom ->","completion":" south"}
+{"prompt":"Drive ->","completion":" invalid"}
+{"prompt":"Unflappable ->","completion":" invalid"}
+{"prompt":"Negotiate ->","completion":" invalid"}
+{"prompt":"Unexcited ->","completion":" invalid"}
+{"prompt":"Travel towards the eastward side ->","completion":" east"}
+{"prompt":"Necklace ->","completion":" invalid"}
+{"prompt":"Stay unflappable ->","completion":" invalid"}
+{"prompt":"Weave ->","completion":" invalid"}
+{"prompt":"Sail ->","completion":" invalid"}
+{"prompt":"Refuse to go towards the western horizon ->","completion":" invalid"}
+{"prompt":"Move leftward ->","completion":" west"}
+{"prompt":"Invest ->","completion":" invalid"}
+{"prompt":"Northern ->","completion":" north"}
+{"prompt":"Set ->","completion":" invalid"}
+{"prompt":"Due south ->","completion":" south"}
+{"prompt":"Unflagging ->","completion":" invalid"}
+{"prompt":"Do not proceed on a westward trajectory ->","completion":" invalid"}
+{"prompt":"Collaborate ->","completion":" invalid"}
+{"prompt":"Swim ->","completion":" invalid"}
+{"prompt":"Eastern ->","completion":" east"}
+{"prompt":"Candle ->","completion":" invalid"}
+{"prompt":"Travel in the direction of the south ->","completion":" south"}
+{"prompt":"Upwards ->","completion":" north"}
+{"prompt":"Do not move towards the southernmost point ->","completion":" invalid"}
+{"prompt":"Do not move in a southerly fashion ->","completion":" invalid"}
+{"prompt":"Palm tree ->","completion":" invalid"}
+{"prompt":"Do not move in the direction of the west ->","completion":" invalid"}
+{"prompt":"Center of activity ->","completion":" invalid"}
+{"prompt":"Keep still ->","completion":" invalid"}
+{"prompt":"Walk towards the east ->","completion":" east"}
+{"prompt":"Sedentary ->","completion":" invalid"}
+{"prompt":"Television ->","completion":" invalid"}
+{"prompt":"Bag ->","completion":" invalid"}
+{"prompt":"Heartland ->","completion":" invalid"}
+{"prompt":"Proceed to the northern side ->","completion":" north"}
+{"prompt":"Do not move in the direction of the bottom ->","completion":" invalid"}
+{"prompt":"Do not Make a northward shift ->","completion":" invalid"}
+{"prompt":"Center gauge ->","completion":" invalid"}
+{"prompt":"Climb ->","completion":" invalid"}
+{"prompt":"Stay tranquil ->","completion":" invalid"}
+{"prompt":"Stay in position ->","completion":" invalid"}
+{"prompt":"Go to the left ->","completion":" west"}
+{"prompt":"Go in a northerly direction ->","completion":" north"}
+{"prompt":"Shift in an easterly fashion ->","completion":" east"}
+{"prompt":"Cup ->","completion":" invalid"}
+{"prompt":"Investigate ->","completion":" invalid"}
+{"prompt":"Central axis ->","completion":" invalid"}
+{"prompt":"Unshackled ->","completion":" invalid"}
+{"prompt":"Do not move ->","completion":" invalid"}
+{"prompt":"Repair ->","completion":" invalid"}
+{"prompt":"Refuse to go in a southerly direction ->","completion":" invalid"}
+{"prompt":"Microscope ->","completion":" invalid"}
+{"prompt":"Head towards the western side ->","completion":" west"}
+{"prompt":"Do not proceed towards the right-hand side ->","completion":" invalid"}
+{"prompt":"Refuse to go upward ->","completion":" invalid"}
+{"prompt":"Plan ->","completion":" invalid"}
+{"prompt":"Take an easterly course ->","completion":" east"}
+{"prompt":"Faultless ->","completion":" invalid"}
+{"prompt":"Sculpt ->","completion":" invalid"}
+{"prompt":"Make an eastward shift ->","completion":" east"}
+{"prompt":"Proceed eastbound ->","completion":" east"}
+{"prompt":"Instruct ->","completion":" invalid"}
+{"prompt":"Refuse to travel westward ->","completion":" invalid"}
+{"prompt":"Move in a southerly fashion ->","completion":" south"}
+{"prompt":"Untouched ->","completion":" invalid"}
+{"prompt":"Medial point ->","completion":" invalid"}
+{"prompt":"Do not Shift towards the eastern point ->","completion":" invalid"}
+{"prompt":"Shift to the eastern direction ->","completion":" east"}
+{"prompt":"Do not move westerly ->","completion":" invalid"}
+{"prompt":"Pillowcase ->","completion":" invalid"}
+{"prompt":"Go towards the setting sun ->","completion":" west"}
+{"prompt":"Due up ->","completion":" north"}
+{"prompt":"Traverse westwards ->","completion":" west"}
+{"prompt":"Undeviating ->","completion":" invalid"}
+{"prompt":"Travel towards the east ->","completion":" east"}
+{"prompt":"Go rightward ->","completion":" east"}
+{"prompt":"Loan ->","completion":" invalid"}
+{"prompt":"Middleman ->","completion":" invalid"}
+{"prompt":"Hub ->","completion":" invalid"}
+{"prompt":"Make a westward progression ->","completion":" west"}
+{"prompt":"Move to the left side ->","completion":" west"}
+{"prompt":"Don't wander ->","completion":" invalid"}
+{"prompt":"Go towards the western horizon ->","completion":" west"}
+{"prompt":"Refuse to go leftward ->","completion":" invalid"}
+{"prompt":"Tennis ->","completion":" invalid"}
+{"prompt":"Do not Make a northward transition ->","completion":" invalid"}
+{"prompt":"Don't twitch ->","completion":" invalid"}
+{"prompt":"Refuse to Journey towards the western side ->","completion":" invalid"}
+{"prompt":"Center of mass ->","completion":" invalid"}
+{"prompt":"Middle ground ->","completion":" invalid"}
+{"prompt":"South ->","completion":" south"}
+{"prompt":"Move towards the southernmost point ->","completion":" south"}
+{"prompt":"Center of expertise ->","completion":" invalid"}
+{"prompt":"Norther ->","completion":" north"}
+{"prompt":"Northmost ->","completion":" north"}
+{"prompt":"Experiment ->","completion":" invalid"}
+{"prompt":"Stay quiet ->","completion":" invalid"}
+{"prompt":"Make a southward advance ->","completion":" south"}
+{"prompt":"Do not proceed to the southern side ->","completion":" invalid"}
+{"prompt":"Don't shuffle ->","completion":" invalid"}
+{"prompt":"Do not head north ->","completion":" invalid"}
+{"prompt":"Southern bound ->","completion":" south"}
+{"prompt":"Don't sway ->","completion":" invalid"}
+{"prompt":"Southwards ->","completion":" south"}
+{"prompt":"Chocolate ->","completion":" invalid"}
+{"prompt":"Refuse to travel in an easterly manner ->","completion":" invalid"}
+{"prompt":"Stay unflustered ->","completion":" invalid"}
+{"prompt":"Surfboard ->","completion":" invalid"}
+{"prompt":"Refuse to Make a westward advance ->","completion":" invalid"}
+{"prompt":"Don't fidget ->","completion":" invalid"}
+{"prompt":"Northerwardly ->","completion":" north"}
+{"prompt":"Refuse to travel towards the eastward side ->","completion":" invalid"}
+{"prompt":"Shift to the right direction ->","completion":" east"}
+{"prompt":"Stay grounded ->","completion":" invalid"}
+{"prompt":"Go in a southerly direction ->","completion":" south"}
+{"prompt":"Backpack ->","completion":" invalid"}
+{"prompt":"Move South ->","completion":" south"}
+{"prompt":"Purchase ->","completion":" invalid"}
+{"prompt":"Rightist orientation ->","completion":" east"}
+{"prompt":"Unfluctuating ->","completion":" invalid"}
+{"prompt":"Organize ->","completion":" invalid"}
+{"prompt":"Proceed leftward ->","completion":" west"}
+{"prompt":"Stay stationary ->","completion":" invalid"}
+{"prompt":"Refuse to go in a westerly direction ->","completion":" invalid"}
+{"prompt":"Unruffled ->","completion":" invalid"}
+{"prompt":"Proceed to the eastward side ->","completion":" east"}
+{"prompt":"Center spot ->","completion":" invalid"}
+{"prompt":"Journey to the east ->","completion":" east"}
+{"prompt":"Center of influence ->","completion":" invalid"}
+{"prompt":"Watch ->","completion":" invalid"}
+{"prompt":"Oven ->","completion":" invalid"}
+{"prompt":"Move to the right side ->","completion":" east"}
+{"prompt":"Do not proceed to the eastward side ->","completion":" invalid"}
+{"prompt":"Hold steady ->","completion":" invalid"}
+{"prompt":"Hat ->","completion":" invalid"}
+{"prompt":"Do not move towards the right ->","completion":" invalid"}
+{"prompt":"E ->","completion":" east"}
+{"prompt":"Do not Take an easterly course ->","completion":" invalid"}
+{"prompt":"Hammock ->","completion":" invalid"}
+{"prompt":"Lamp ->","completion":" invalid"}
+{"prompt":"Refuse to Journey to the east ->","completion":" invalid"}
+{"prompt":"Center defender ->","completion":" invalid"}
+{"prompt":"Sand ->","completion":" invalid"}
+{"prompt":"Music ->","completion":" invalid"}
+{"prompt":"I go down ->","completion":" south"}
+{"prompt":"Refuse to travel towards the east ->","completion":" invalid"}
+{"prompt":"Shift to the northern direction ->","completion":" north"}
+{"prompt":"Rescue ->","completion":" invalid"}
+{"prompt":"Stay centered ->","completion":" invalid"}
+{"prompt":"Move in an easterly fashion ->","completion":" east"}
+{"prompt":"Sleep ->","completion":" invalid"}
+{"prompt":"Don't move your head ->","completion":" invalid"}
+{"prompt":"Adventure ->","completion":" invalid"}
+{"prompt":"Do not move to the left side ->","completion":" invalid"}
+{"prompt":"Grass ->","completion":" invalid"}
+{"prompt":"Don't drum your fingers ->","completion":" invalid"}
+{"prompt":"Center half ->","completion":" invalid"}
+{"prompt":"Stay pacific ->","completion":" invalid"}
+{"prompt":"Inert ->","completion":" invalid"}
+{"prompt":"Refuse to Journey towards the southern side ->","completion":" invalid"}
+{"prompt":"Center of the universe ->","completion":" invalid"}
+{"prompt":"Chess ->","completion":" invalid"}
+{"prompt":"Do not Shift towards the northern point ->","completion":" invalid"}
+{"prompt":"Do not Shift towards the bottom side ->","completion":" invalid"}
+{"prompt":"Don't move your legs ->","completion":" invalid"}
+{"prompt":"Central focus ->","completion":" invalid"}
+{"prompt":"Focal point ->","completion":" invalid"}
+{"prompt":"Proceed northbound ->","completion":" north"}
+{"prompt":"Move to the right-hand side ->","completion":" east"}
+{"prompt":"Stay rooted ->","completion":" invalid"}
+{"prompt":"Inner circle ->","completion":" invalid"}
+{"prompt":"Journey towards the eastern side ->","completion":" east"}
+{"prompt":"I do not head Westward ->","completion":" invalid"}
+{"prompt":"Move towards the westerly point ->","completion":" west"}
+{"prompt":"Move upward ->","completion":" north"}
+{"prompt":"Move in the direction of the bottom ->","completion":" south"}
+{"prompt":"Orange ->","completion":" invalid"}
+{"prompt":"Car ->","completion":" invalid"}
+{"prompt":"Don't make a move ->","completion":" invalid"}
+{"prompt":"Flower ->","completion":" invalid"}
+{"prompt":"Westerward ->","completion":" west"}
+{"prompt":"Window ->","completion":" invalid"}
+{"prompt":"Head north ->","completion":" north"}
+{"prompt":"Don't move an inch ->","completion":" invalid"}
+{"prompt":"Dinosaur ->","completion":" invalid"}
+{"prompt":"Center ->","completion":" invalid"}
+{"prompt":"Make a southward progression ->","completion":" south"}
+{"prompt":"Counsel ->","completion":" invalid"}
+{"prompt":"Hanger ->","completion":" invalid"}
+{"prompt":"At rest ->","completion":" invalid"}
+{"prompt":"River ->","completion":" invalid"}
+{"prompt":"Refuse to travel in the direction of the south ->","completion":" invalid"}
+{"prompt":"Center support ->","completion":" invalid"}
+{"prompt":"North ->","completion":" north"}
+{"prompt":"Celebrate ->","completion":" invalid"}
+{"prompt":"Knit ->","completion":" invalid"}
+{"prompt":"Protect ->","completion":" invalid"}
+{"prompt":"Shift to the lower side ->","completion":" south"}
+{"prompt":"Centermost ->","completion":" invalid"}
+{"prompt":"Stay calm ->","completion":" invalid"}
+{"prompt":"Carrot ->","completion":" invalid"}
+{"prompt":"Do not Shift in a northerly manner ->","completion":" invalid"}
+{"prompt":"Refuse to Journey to the south ->","completion":" invalid"}
+{"prompt":"Stay fixed in place ->","completion":" invalid"}
+{"prompt":"Make a northward advance ->","completion":" north"}
+{"prompt":"Beach ->","completion":" invalid"}
+{"prompt":"Northing ->","completion":" north"}
+{"prompt":"Refuse to travel towards the westward side ->","completion":" invalid"}
+{"prompt":"Fixed ->","completion":" invalid"}
+{"prompt":"Don't shift your weight ->","completion":" invalid"}
+{"prompt":"Do not Shift in a southerly fashion ->","completion":" invalid"}
+{"prompt":"Shift to the left direction ->","completion":" west"}
+{"prompt":"Do not Make a westward progression ->","completion":" invalid"}
+{"prompt":"Dextral ->","completion":" east"}
+{"prompt":"Juggle ->","completion":" invalid"}
+{"prompt":"Kite ->","completion":" invalid"}
+{"prompt":"Downward direction ->","completion":" south"}
+{"prompt":"Do not move towards the eastern direction ->","completion":" invalid"}
+{"prompt":"Do not Shift to the northern direction ->","completion":" invalid"}
+{"prompt":"Proceed towards the westerly point ->","completion":" west"}
+{"prompt":"Walk towards the southern side ->","completion":" south"}
+{"prompt":"Northerly movement ->","completion":" north"}
+{"prompt":"Go downward ->","completion":" south"}
+{"prompt":"Basketball ->","completion":" invalid"}
+{"prompt":"Play ->","completion":" invalid"}
+{"prompt":"Shift to the upward side ->","completion":" north"}
+{"prompt":"Perfume ->","completion":" invalid"}
+{"prompt":"Stay undismayed ->","completion":" invalid"}
+{"prompt":"Do not proceed in a northerly direction ->","completion":" invalid"}
+{"prompt":"Go in an upward direction ->","completion":" north"}
+{"prompt":"Design ->","completion":" invalid"}
+{"prompt":"I do not go up ->","completion":" invalid"}
+{"prompt":"Travel towards the northward side ->","completion":" north"}
+{"prompt":"Westbound ->","completion":" west"}
+{"prompt":"Don't look around ->","completion":" invalid"}
+{"prompt":"To the dexter side ->","completion":" east"}
+{"prompt":"Don't move your hands ->","completion":" invalid"}
+{"prompt":"Unfettered ->","completion":" invalid"}
+{"prompt":"Chair ->","completion":" invalid"}
+{"prompt":"Center point ->","completion":" invalid"}
+{"prompt":"Proceed upward ->","completion":" north"}
+{"prompt":"Unchangeable ->","completion":" invalid"}
+{"prompt":"Journey north ->","completion":" north"}
+{"prompt":"Go northward ->","completion":" north"}
+{"prompt":"I move to the South ->","completion":" south"}
+{"prompt":"Unblocked ->","completion":" invalid"}
+{"prompt":"Bus ->","completion":" invalid"}
+{"prompt":"Do not move towards the westward side ->","completion":" invalid"}
+{"prompt":"Rainbow ->","completion":" invalid"}
+{"prompt":"Don't stir ->","completion":" invalid"}
+{"prompt":"Shift in a westerly fashion ->","completion":" west"}
+{"prompt":"Apex ->","completion":" invalid"}
+{"prompt":"Jacket ->","completion":" invalid"}
+{"prompt":"Proceed rightward ->","completion":" east"}
+{"prompt":"Progress towards the northern horizon ->","completion":" north"}
+{"prompt":"Do not move towards the easterly point ->","completion":" invalid"}
+{"prompt":"Move towards the right ->","completion":" east"}
+{"prompt":"Make an eastward progression ->","completion":" east"}
+{"prompt":"Make a lateral shift to the east ->","completion":" east"}
+{"prompt":"Unharmed ->","completion":" invalid"}
+{"prompt":"Northward advancement ->","completion":" north"}
+{"prompt":"Do not Take a northerly course ->","completion":" invalid"}
+{"prompt":"Be still ->","completion":" invalid"}
+{"prompt":"Unscarred ->","completion":" invalid"}
+{"prompt":"To the right ->","completion":" east"}
+{"prompt":"Leftdirection ->","completion":" west"}
+{"prompt":"Northermost ->","completion":" north"}
+{"prompt":"Immovable ->","completion":" invalid"}
+{"prompt":"Calculator ->","completion":" invalid"}
+{"prompt":"The heart of the matter ->","completion":" invalid"}
+{"prompt":"Beachball ->","completion":" invalid"}
+{"prompt":"Mirror ->","completion":" invalid"}
+{"prompt":"Leftward ->","completion":" west"}
+{"prompt":"House ->","completion":" invalid"}
+{"prompt":"Stay anchored ->","completion":" invalid"}
+{"prompt":"I do not move to the West ->","completion":" invalid"}
+{"prompt":"Sweet spot ->","completion":" invalid"}
+{"prompt":"Adopt ->","completion":" invalid"}
+{"prompt":"Don't look away ->","completion":" invalid"}
+{"prompt":"Serve ->","completion":" invalid"}
+{"prompt":"Butterfly ->","completion":" invalid"}
+{"prompt":"Southern ->","completion":" south"}
+{"prompt":"Don't lean ->","completion":" invalid"}
+{"prompt":"Centerpiece ->","completion":" invalid"}
+{"prompt":"Dog ->","completion":" invalid"}
+{"prompt":"Connect ->","completion":" invalid"}
+{"prompt":"Proceed towards the northernmost point. ->","completion":" north"}
+{"prompt":"I head Eastward ->","completion":" east"}
+{"prompt":"Tissue ->","completion":" invalid"}
+{"prompt":"Don't swing your arms ->","completion":" invalid"}
+{"prompt":"Make a lateral move to the west ->","completion":" west"}
+{"prompt":"To the southward side ->","completion":" south"}
+{"prompt":"Do not Shift towards the westward point ->","completion":" invalid"}
+{"prompt":"To the bottom ->","completion":" south"}
+{"prompt":"Do not proceed eastbound ->","completion":" invalid"}
+{"prompt":"Arrange ->","completion":" invalid"}
+{"prompt":"Still-standing ->","completion":" invalid"}
+{"prompt":"Stay cool ->","completion":" invalid"}
+{"prompt":"Refuse to go towards the right-hand side ->","completion":" invalid"}
+{"prompt":"Desk ->","completion":" invalid"}
+{"prompt":"Permanently fixed ->","completion":" invalid"}
+{"prompt":"Unspoiled ->","completion":" invalid"}
+{"prompt":"Cat ->","completion":" invalid"}
+{"prompt":"Influence ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the westernmost point ->","completion":" invalid"}
+{"prompt":"Unrattled ->","completion":" invalid"}
+{"prompt":"Innovate ->","completion":" invalid"}
+{"prompt":"Operate ->","completion":" invalid"}
+{"prompt":"Proceed westbound ->","completion":" west"}
+{"prompt":"Refuse to Make an eastward advance ->","completion":" invalid"}
+{"prompt":"Telescope ->","completion":" invalid"}
+{"prompt":"Center brace ->","completion":" invalid"}
+{"prompt":"Northside ->","completion":" north"}
+{"prompt":"Deliver ->","completion":" invalid"}
+{"prompt":"Move towards the westward side ->","completion":" west"}
+{"prompt":"Refuse to Journey west ->","completion":" invalid"}
+{"prompt":"Do not head west ->","completion":" invalid"}
+{"prompt":"Locked ->","completion":" invalid"}
+{"prompt":"Unmoved ->","completion":" invalid"}
+{"prompt":"I move to the West ->","completion":" west"}
+{"prompt":"Educate ->","completion":" invalid"}
+{"prompt":"I do not move to the East ->","completion":" invalid"}
+{"prompt":"Do not move towards the easternmost point ->","completion":" invalid"}
+{"prompt":"Westerside ->","completion":" west"}
+{"prompt":"Journey towards the northern side ->","completion":" north"}
+{"prompt":"Perform ->","completion":" invalid"}
+{"prompt":"Unmoving ->","completion":" invalid"}
+{"prompt":"Refuse to go westish ->","completion":" invalid"}
+{"prompt":"Rent ->","completion":" invalid"}
+{"prompt":"Luggage ->","completion":" invalid"}
+{"prompt":"Refuse to Make a southward advance ->","completion":" invalid"}
+{"prompt":"Do not Make a southward transition ->","completion":" invalid"}
+{"prompt":"Centerline ->","completion":" invalid"}
+{"prompt":"Grounded ->","completion":" invalid"}
+{"prompt":"Travel in an easterly manner ->","completion":" east"}
+{"prompt":"Create ->","completion":" invalid"}
+{"prompt":"East ->","completion":" east"}
+{"prompt":"Immobile ->","completion":" invalid"}
+{"prompt":"Cook ->","completion":" invalid"}
+{"prompt":" ->","completion":" invalid"}
+{"prompt":"Make an eastward transition ->","completion":" east"}
+{"prompt":"Eastward ->","completion":" east"}
+{"prompt":"To the top ->","completion":" north"}
+{"prompt":"Waterfall ->","completion":" invalid"}
+{"prompt":"Occidental ->","completion":" west"}
+{"prompt":"Hunt ->","completion":" invalid"}
+{"prompt":"Flawless ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the eastward side ->","completion":" invalid"}
+{"prompt":"Focal center ->","completion":" invalid"}
+{"prompt":"Discover ->","completion":" invalid"}
+{"prompt":"Tree ->","completion":" invalid"}
+{"prompt":"Stay balanced ->","completion":" invalid"}
+{"prompt":"Refuse to go rightward ->","completion":" invalid"}
+{"prompt":"Go in an easterly direction ->","completion":" east"}
+{"prompt":"Stuck ->","completion":" invalid"}
+{"prompt":"N ->","completion":" north"}
+{"prompt":"Unrelenting ->","completion":" invalid"}
+{"prompt":"Move in the direction of the west ->","completion":" west"}
+{"prompt":"Uninfluenced ->","completion":" invalid"}
+{"prompt":"Travel towards the south ->","completion":" south"}
+{"prompt":"Refuse to travel leftward bound ->","completion":" invalid"}
+{"prompt":"Sunflower ->","completion":" invalid"}
+{"prompt":"Head towards the northern side ->","completion":" north"}
+{"prompt":"Make a lateral shift to the west ->","completion":" west"}
+{"prompt":"Central courtyard ->","completion":" invalid"}
+{"prompt":"Freeze ->","completion":" invalid"}
+{"prompt":"Guitar ->","completion":" invalid"}
+{"prompt":"Rightward direction ->","completion":" east"}
+{"prompt":"To the south ->","completion":" south"}
+{"prompt":"Proceed in an easterly direction ->","completion":" east"}
+{"prompt":"Soccer ->","completion":" invalid"}
+{"prompt":"Do not Make a westward movement ->","completion":" invalid"}
+{"prompt":"Shampoo ->","completion":" invalid"}
+{"prompt":"Northmostward ->","completion":" north"}
+{"prompt":"Refuse to travel towards the southern side ->","completion":" invalid"}
+{"prompt":"Marshmallow ->","completion":" invalid"}
+{"prompt":"Refuse to go towards the setting sun ->","completion":" invalid"}
+{"prompt":"Stable ->","completion":" invalid"}
+{"prompt":"Nordland ->","completion":" north"}
+{"prompt":"Northways ->","completion":" north"}
+{"prompt":"Ice cream ->","completion":" invalid"}
+{"prompt":"Do not Shift in a westerly fashion ->","completion":" invalid"}
+{"prompt":"Progress towards the west ->","completion":" west"}
+{"prompt":"Don't rock ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the eastern point ->","completion":" invalid"}
+{"prompt":"Northerly bound ->","completion":" north"}
+{"prompt":"Don't mess around ->","completion":" invalid"}
+{"prompt":"Manage ->","completion":" invalid"}
+{"prompt":"Down ->","completion":" south"}
+{"prompt":"Westby ->","completion":" west"}
+{"prompt":"Meditate ->","completion":" invalid"}
+{"prompt":"To the right side ->","completion":" east"}
+{"prompt":"Northwardly ->","completion":" north"}
+{"prompt":"Refuse to go towards the eastward side ->","completion":" invalid"}
+{"prompt":"Do not move towards the eastward side ->","completion":" invalid"}
+{"prompt":"Belly button ->","completion":" invalid"}
+{"prompt":"Center stage ->","completion":" invalid"}
+{"prompt":"S ->","completion":" south"}
+{"prompt":"Refuse to go westward ->","completion":" invalid"}
+{"prompt":"Camera ->","completion":" invalid"}
+{"prompt":"Focus ->","completion":" invalid"}
+{"prompt":"Go towards the bottom side ->","completion":" south"}
+{"prompt":"Fix ->","completion":" invalid"}
+{"prompt":"Firmly planted ->","completion":" invalid"}
+{"prompt":"Shift in a southerly fashion ->","completion":" south"}
+{"prompt":"Make an ascent to the north ->","completion":" north"}
+{"prompt":"Northdirection ->","completion":" north"}
+{"prompt":"Do not move in an easterly fashion ->","completion":" invalid"}
+{"prompt":"Refuse to go leftwardly ->","completion":" invalid"}
+{"prompt":"Proceed to the left ->","completion":" west"}
+{"prompt":"Research ->","completion":" invalid"}
+{"prompt":"Refuse to Journey towards the northern side ->","completion":" invalid"}
+{"prompt":"Set off in a northerly manner ->","completion":" north"}
+{"prompt":"Lake ->","completion":" invalid"}
+{"prompt":"Don't shake your head ->","completion":" invalid"}
+{"prompt":"Bake ->","completion":" invalid"}
+{"prompt":"Unadjusted ->","completion":" invalid"}
+{"prompt":"Jump in place ->","completion":" invalid"}
+{"prompt":"Move East ->","completion":" east"}
+{"prompt":"Do not Shift to the western direction ->","completion":" invalid"}
+{"prompt":"Do not move to the right side ->","completion":" invalid"}
+{"prompt":"Refuse to travel northward ->","completion":" invalid"}
+{"prompt":"Coach ->","completion":" invalid"}
+{"prompt":"Leaf ->","completion":" invalid"}
+{"prompt":"Unaffected ->","completion":" invalid"}
+{"prompt":"Leftways ->","completion":" west"}
+{"prompt":"Shift to the upward direction ->","completion":" north"}
+{"prompt":"Proceed towards the right-hand side ->","completion":" east"}
+{"prompt":"Refuse to go towards the top ->","completion":" invalid"}
+{"prompt":"Ideal ->","completion":" invalid"}
+{"prompt":"Do not Take a southerly course ->","completion":" invalid"}
+{"prompt":"Do not proceed towards the easterly point ->","completion":" invalid"}
+{"prompt":"Go upward ->","completion":" north"}
+{"prompt":"Stay serene ->","completion":" invalid"}
+{"prompt":"Don't wiggle your toes ->","completion":" invalid"}
+{"prompt":"Proceed to the southern side ->","completion":" south"}
+{"prompt":"Don't twist ->","completion":" invalid"}
+{"prompt":"Quiet ->","completion":" invalid"}
+{"prompt":"Rooted ->","completion":" invalid"}
+{"prompt":"Soap ->","completion":" invalid"}
+{"prompt":"Center aisle ->","completion":" invalid"}
+{"prompt":"I go right ->","completion":" east"}
+{"prompt":"Northcentral ->","completion":" north"}
+{"prompt":"Write ->","completion":" invalid"}
+{"prompt":"Travel eastward ->","completion":" east"}
+{"prompt":"Unblemished ->","completion":" invalid"}
+{"prompt":"Do not Make a lateral move to the south ->","completion":" invalid"}
+{"prompt":"Rightward orientation ->","completion":" east"}
+{"prompt":"Northbound direction ->","completion":" north"}
+{"prompt":"Do not Make a downward movement ->","completion":" invalid"}
+{"prompt":"Unshaken ->","completion":" invalid"}
+{"prompt":"Stay established ->","completion":" invalid"}
+{"prompt":"Eastwards ->","completion":" east"}
+{"prompt":"Shift to the south direction ->","completion":" south"}
+{"prompt":"I do not move to the North ->","completion":" invalid"}
+{"prompt":"Do not Shift to the bottom direction ->","completion":" invalid"}
+{"prompt":"Center of development ->","completion":" invalid"}
+{"prompt":"Center of gravity ->","completion":" invalid"}
+{"prompt":"Spotless ->","completion":" invalid"}
+{"prompt":"Hiking ->","completion":" invalid"}
+{"prompt":"Share ->","completion":" invalid"}
+{"prompt":"Westergo ->","completion":" west"}
+{"prompt":"Boat ->","completion":" invalid"}
+{"prompt":"Proceed towards the northerly point ->","completion":" north"}
+{"prompt":"Center post ->","completion":" invalid"}
+{"prompt":"Proceed in a northerly direction ->","completion":" north"}
+{"prompt":"I move to the East ->","completion":" east"}
+{"prompt":"Swimsuit ->","completion":" invalid"}
+{"prompt":"Head west ->","completion":" west"}
+{"prompt":"Right-side direction ->","completion":" east"}
+{"prompt":"Do not proceed to the left ->","completion":" invalid"}
+{"prompt":"Mosquito ->","completion":" invalid"}
+{"prompt":"The essence ->","completion":" invalid"}
+{"prompt":"Center of attention ->","completion":" invalid"}
+{"prompt":"Balloon ->","completion":" invalid"}
+{"prompt":"South side oriented ->","completion":" south"}
+{"prompt":"Center of operations ->","completion":" invalid"}
+{"prompt":"Inviolate ->","completion":" invalid"}
+{"prompt":"Move in the direction of the right ->","completion":" east"}
+{"prompt":"Move portside ->","completion":" west"}
+{"prompt":"Do not move in the direction of the north ->","completion":" invalid"}
+{"prompt":"Mountain ->","completion":" invalid"}
+{"prompt":"Do not Make a lateral move to the east ->","completion":" invalid"}
+{"prompt":"Garden ->","completion":" invalid"}
+{"prompt":"Move towards the easterly point ->","completion":" east"}
+{"prompt":"Leftsider ->","completion":" west"}
+{"prompt":"Stay unshaken ->","completion":" invalid"}
+{"prompt":"Do not Set off in a westerly manner ->","completion":" invalid"}
+{"prompt":"Adapt ->","completion":" invalid"}
+{"prompt":"Key ->","completion":" invalid"}
+{"prompt":"Do not Set off in a northerly manner ->","completion":" invalid"}
+{"prompt":"Unvarying ->","completion":" invalid"}
+{"prompt":"Do not proceed upward ->","completion":" invalid"}
+{"prompt":"Do not proceed in a westwardly direction ->","completion":" invalid"}
+{"prompt":"Central area ->","completion":" invalid"}
+{"prompt":"Rightist ->","completion":" east"}
+{"prompt":"Do not proceed on an eastward trajectory ->","completion":" invalid"}
+{"prompt":"Do not proceed on a southward trajectory ->","completion":" invalid"}
+{"prompt":"Water ->","completion":" invalid"}
+{"prompt":"Do not Set off in an easterly manner ->","completion":" invalid"}
+{"prompt":"Refuse to go northward ->","completion":" invalid"}
+{"prompt":"Don't budge ->","completion":" invalid"}
+{"prompt":"Go towards the top ->","completion":" north"}
+{"prompt":"Unchanged ->","completion":" invalid"}
+{"prompt":"Do not Northwards shift ->","completion":" invalid"}
+{"prompt":"Shift in a northerly manner ->","completion":" north"}
+{"prompt":"Settled ->","completion":" invalid"}
+{"prompt":"Bullseye ->","completion":" invalid"}
+{"prompt":"Make a northward movement ->","completion":" north"}
+{"prompt":"Do not proceed towards the northernmost point. ->","completion":" invalid"}
+{"prompt":"The crux ->","completion":" invalid"}
+{"prompt":"Do not Shift in an easterly fashion ->","completion":" invalid"}
+{"prompt":"Upland ->","completion":" north"}
+{"prompt":"Move rightward ->","completion":" east"}
+{"prompt":"Mainstay ->","completion":" invalid"}
+{"prompt":"Northwards ->","completion":" north"}
+{"prompt":"Participate ->","completion":" invalid"}
+{"prompt":"Express ->","completion":" invalid"}
+{"prompt":"Do not Shift to the right direction ->","completion":" invalid"}
+{"prompt":"Don't shift ->","completion":" invalid"}
+{"prompt":"Do not move towards the top ->","completion":" invalid"}
+{"prompt":"Motionless ->","completion":" invalid"}
+{"prompt":"Northwise ->","completion":" north"}
+{"prompt":"Journey west ->","completion":" west"}
+{"prompt":"Proceed on a northward trajectory ->","completion":" north"}
+{"prompt":"Develop ->","completion":" invalid"}
+{"prompt":"Do not Walk towards the southern side ->","completion":" invalid"}
+{"prompt":"Head east ->","completion":" east"}
+{"prompt":"Don't gesture ->","completion":" invalid"}
+{"prompt":"Do not proceed leftward ->","completion":" invalid"}
+{"prompt":"Refuse to go towards the northern horizon ->","completion":" invalid"}
+{"prompt":"I head Southward ->","completion":" south"}
+{"prompt":"Refuse to travel in a westerly manner ->","completion":" invalid"}
+{"prompt":"Travel to the left ->","completion":" west"}
+{"prompt":"Moon ->","completion":" invalid"}
+{"prompt":"Stay unruffled ->","completion":" invalid"}
+{"prompt":"Shift towards the right side ->","completion":" east"}
+{"prompt":"Make a southward transition ->","completion":" south"}
+{"prompt":"Center cap ->","completion":" invalid"}
+{"prompt":"Ladder ->","completion":" invalid"}
+{"prompt":"Don't sway back and forth ->","completion":" invalid"}
+{"prompt":"Center of curvature ->","completion":" invalid"}
+{"prompt":"Center of excellence ->","completion":" invalid"}
+{"prompt":"Refuse to Northward advancement ->","completion":" invalid"}
+{"prompt":"Southward ->","completion":" south"}
+{"prompt":"Stay settled ->","completion":" invalid"}
+{"prompt":"Proceed on a southward trajectory ->","completion":" south"}
+{"prompt":"Achieve ->","completion":" invalid"}
+{"prompt":"Travel in a northerly fashion ->","completion":" north"}
+{"prompt":"Do not move in the direction of the right ->","completion":" invalid"}
+{"prompt":"Midpoint ->","completion":" invalid"}
+{"prompt":"Stay at ease ->","completion":" invalid"}
+{"prompt":"Do not Shift towards the western point ->","completion":" invalid"}
+{"prompt":"Dolphin ->","completion":" invalid"}
+{"prompt":"Do not move to the right-hand side ->","completion":" invalid"}
+{"prompt":"Lemon ->","completion":" invalid"}
+{"prompt":"Unbothered ->","completion":" invalid"}
+{"prompt":"Shift towards the northern point ->","completion":" north"}
+{"prompt":"Take a northerly course ->","completion":" north"}
+{"prompt":"Center of learning ->","completion":" invalid"}
+{"prompt":"Cycle ->","completion":" invalid"}
+{"prompt":"Center ice ->","completion":" invalid"}
+{"prompt":"Do not Shift to the left side ->","completion":" invalid"}
+{"prompt":"Stay unworried ->","completion":" invalid"}
+{"prompt":"Core ->","completion":" invalid"}
+{"prompt":"Train ->","completion":" invalid"}
+{"prompt":"Moonlight ->","completion":" invalid"}
+{"prompt":"Read ->","completion":" invalid"}
+{"prompt":"Right-hand side ->","completion":" east"}
+{"prompt":"Northmarch ->","completion":" north"}
+{"prompt":"Do not proceed in an easterly direction ->","completion":" invalid"}
+{"prompt":"Stay at rest ->","completion":" invalid"}
+{"prompt":"Traverse in the direction of the pole ->","completion":" north"}
+{"prompt":"Unmarred ->","completion":" invalid"}
+{"prompt":"Do not Make a downward move ->","completion":" invalid"}
+{"prompt":"To the sunrise side ->","completion":" east"}
+{"prompt":"Don't slip ->","completion":" invalid"}
+{"prompt":"To the south side ->","completion":" south"}
+{"prompt":"Shift towards the bottom side ->","completion":" south"}
+{"prompt":"Refuse to go eastward ->","completion":" invalid"}
+{"prompt":"Ski ->","completion":" invalid"}
+{"prompt":"Northland ->","completion":" north"}
+{"prompt":"Due right ->","completion":" east"}
+{"prompt":"Go eastward ->","completion":" east"}
+{"prompt":"Fish ->","completion":" invalid"}
+{"prompt":"Central park ->","completion":" invalid"}
+{"prompt":"Set off in an easterly manner ->","completion":" east"}
+{"prompt":"Succeed ->","completion":" invalid"}
+{"prompt":"Do not move to the left-hand side ->","completion":" invalid"}
+{"prompt":"I do not go left ->","completion":" invalid"}
+{"prompt":"Do not Shift towards the right side ->","completion":" invalid"}
+{"prompt":"I do not head Eastward ->","completion":" invalid"}
+{"prompt":"Do not Make a lateral shift to the west ->","completion":" invalid"}
+{"prompt":"Northwards shift ->","completion":" north"}
+{"prompt":"Don't play around ->","completion":" invalid"}
+{"prompt":"Grow ->","completion":" invalid"}
+{"prompt":"Do not move towards the northerly point ->","completion":" invalid"}
+{"prompt":"Do not move West ->","completion":" invalid"}
+{"prompt":"Unchecked ->","completion":" invalid"}
+{"prompt":"Do not Shift to the south direction ->","completion":" invalid"}
+{"prompt":"Make an eastward movement ->","completion":" east"}
+{"prompt":"Don't distract yourself ->","completion":" invalid"}
+{"prompt":"I move to the North ->","completion":" north"}
+{"prompt":"Center beam ->","completion":" invalid"}
+{"prompt":"Refuse to travel in a westwardly manner ->","completion":" invalid"}
+{"prompt":"Shift to the westward direction ->","completion":" west"}
+{"prompt":"Stay stuck ->","completion":" invalid"}
+{"prompt":"Refuse to traverse westwards ->","completion":" invalid"}
+{"prompt":"I do not head Northward ->","completion":" invalid"}
+{"prompt":"Assist ->","completion":" invalid"}
+{"prompt":"Do not Set off in a southerly direction ->","completion":" invalid"}
+{"prompt":"Halfway point ->","completion":" invalid"}
+{"prompt":"Map ->","completion":" invalid"}
+{"prompt":"Southerly ->","completion":" south"}

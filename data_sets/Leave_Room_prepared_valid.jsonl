@@ -1,0 +1,115 @@
+{"prompt":"I leave the dorm ->","completion":" yes"}
+{"prompt":"Walk out of home ->","completion":" yes"}
+{"prompt":"Continue outside ->","completion":" yes"}
+{"prompt":"Proceed outside ->","completion":" yes"}
+{"prompt":"I go outside ->","completion":" yes"}
+{"prompt":"Get out of here ->","completion":" yes"}
+{"prompt":"I do not leave the room ->","completion":" no"}
+{"prompt":"Stay at home ->","completion":" no"}
+{"prompt":"Remain in dorm ->","completion":" no"}
+{"prompt":"Continue indoors ->","completion":" no"}
+{"prompt":"I stay indoors ->","completion":" no"}
+{"prompt":"Stay in place ->","completion":" no"}
+{"prompt":"Go to the rest ->","completion":" no"}
+{"prompt":"Exit the room ->","completion":" yes"}
+{"prompt":"Leave your dorm ->","completion":" yes"}
+{"prompt":"Proceed to the exterior ->","completion":" yes"}
+{"prompt":"Navigate through the opening ->","completion":" yes"}
+{"prompt":"Swing the door open and go out ->","completion":" yes"}
+{"prompt":"Access the other side of the door ->","completion":" yes"}
+{"prompt":"Walk beyond the doorframe and into the outside space ->","completion":" yes"}
+{"prompt":"Go beyond the door and into the next area ->","completion":" yes"}
+{"prompt":"Proceed past the doorframe and exit the building's interior ->","completion":" yes"}
+{"prompt":"Walk out of the room through the open door ->","completion":" yes"}
+{"prompt":"Go beyond the doorframe and into the next area ->","completion":" yes"}
+{"prompt":"Depart from the space ->","completion":" yes"}
+{"prompt":"Walk out of the area ->","completion":" yes"}
+{"prompt":"Go outside through the door ->","completion":" yes"}
+{"prompt":"Egress from the premises ->","completion":" yes"}
+{"prompt":"Exit the room and move on ->","completion":" yes"}
+{"prompt":"Move beyond the room ->","completion":" yes"}
+{"prompt":"Exit the area ->","completion":" yes"}
+{"prompt":"Step out of the space ->","completion":" yes"}
+{"prompt":"Go outside the room ->","completion":" yes"}
+{"prompt":"Go out through the door ->","completion":" yes"}
+{"prompt":"Step outside the building ->","completion":" yes"}
+{"prompt":"Go beyond the entrance ->","completion":" yes"}
+{"prompt":"Move out of the enclosed space ->","completion":" yes"}
+{"prompt":"Move beyond the threshold ->","completion":" yes"}
+{"prompt":"Step outside the structure ->","completion":" yes"}
+{"prompt":"Go outside the building ->","completion":" yes"}
+{"prompt":"Move beyond the entrance ->","completion":" yes"}
+{"prompt":"Leave the enclosed environment ->","completion":" yes"}
+{"prompt":"Step out of the indoor area ->","completion":" yes"}
+{"prompt":"Leave the indoor surroundings ->","completion":" yes"}
+{"prompt":"Keep inside the building ->","completion":" no"}
+{"prompt":"Stay inside the premises ->","completion":" no"}
+{"prompt":"Stay indoors ->","completion":" no"}
+{"prompt":"Remain inside the building ->","completion":" no"}
+{"prompt":"Stay within the establishment ->","completion":" no"}
+{"prompt":"Keep inside the structure ->","completion":" no"}
+{"prompt":"Keep inside the enclosed space ->","completion":" no"}
+{"prompt":"Keep inside the premises ->","completion":" no"}
+{"prompt":"Stay inside the enclosed area ->","completion":" no"}
+{"prompt":"Stay within the indoor area ->","completion":" no"}
+{"prompt":"Pull the door closed ->","completion":" no"}
+{"prompt":"Swing the door shut ->","completion":" no"}
+{"prompt":"Lock the door ->","completion":" no"}
+{"prompt":"Move the door into a closed state ->","completion":" no"}
+{"prompt":"Set the door in a closed state ->","completion":" no"}
+{"prompt":"Lock the door securely ->","completion":" no"}
+{"prompt":"Pull the door until it's tightly closed ->","completion":" no"}
+{"prompt":"Get back in bed ->","completion":" no"}
+{"prompt":"Tuck yourself back in bed ->","completion":" no"}
+{"prompt":"Climb back into bed ->","completion":" no"}
+{"prompt":"Talk ->","completion":" invalid"}
+{"prompt":"Hug ->","completion":" invalid"}
+{"prompt":"Create ->","completion":" invalid"}
+{"prompt":"Calculate ->","completion":" invalid"}
+{"prompt":"Investigate ->","completion":" invalid"}
+{"prompt":"Train ->","completion":" invalid"}
+{"prompt":"Meditate ->","completion":" invalid"}
+{"prompt":"Study ->","completion":" invalid"}
+{"prompt":"Dive ->","completion":" invalid"}
+{"prompt":"Manage ->","completion":" invalid"}
+{"prompt":"Innovate ->","completion":" invalid"}
+{"prompt":"Navigate ->","completion":" invalid"}
+{"prompt":"Protect ->","completion":" invalid"}
+{"prompt":"Encourage ->","completion":" invalid"}
+{"prompt":"Facilitate ->","completion":" invalid"}
+{"prompt":"Embrace ->","completion":" invalid"}
+{"prompt":"Lead ->","completion":" invalid"}
+{"prompt":"Hike ->","completion":" invalid"}
+{"prompt":"Counsel ->","completion":" invalid"}
+{"prompt":"Operate ->","completion":" invalid"}
+{"prompt":"Perform ->","completion":" invalid"}
+{"prompt":"Deliver ->","completion":" invalid"}
+{"prompt":"Rent ->","completion":" invalid"}
+{"prompt":"Sunflower ->","completion":" invalid"}
+{"prompt":"Sandal ->","completion":" invalid"}
+{"prompt":"Butterfly ->","completion":" invalid"}
+{"prompt":"Pillowcase ->","completion":" invalid"}
+{"prompt":"Bicycle ->","completion":" invalid"}
+{"prompt":"Table ->","completion":" invalid"}
+{"prompt":"Grass ->","completion":" invalid"}
+{"prompt":"Lake ->","completion":" invalid"}
+{"prompt":"Ice cream ->","completion":" invalid"}
+{"prompt":"Ocean ->","completion":" invalid"}
+{"prompt":"Watch ->","completion":" invalid"}
+{"prompt":"Beachball ->","completion":" invalid"}
+{"prompt":"Bridge ->","completion":" invalid"}
+{"prompt":"Clouds ->","completion":" invalid"}
+{"prompt":"Pineapple ->","completion":" invalid"}
+{"prompt":"Water ->","completion":" invalid"}
+{"prompt":"Palm tree ->","completion":" invalid"}
+{"prompt":"Coconut ->","completion":" invalid"}
+{"prompt":"Candle ->","completion":" invalid"}
+{"prompt":"Television ->","completion":" invalid"}
+{"prompt":"Jacket ->","completion":" invalid"}
+{"prompt":"Scissors ->","completion":" invalid"}
+{"prompt":"Notebook ->","completion":" invalid"}
+{"prompt":"Pillar ->","completion":" invalid"}
+{"prompt":"Statue ->","completion":" invalid"}
+{"prompt":"Marker ->","completion":" invalid"}
+{"prompt":"Radio ->","completion":" invalid"}
+{"prompt":"Soap ->","completion":" invalid"}

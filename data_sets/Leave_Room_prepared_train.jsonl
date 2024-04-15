@@ -1,0 +1,459 @@
+{"prompt":"Marshmallow ->","completion":" invalid"}
+{"prompt":"Walk through the entry ->","completion":" yes"}
+{"prompt":"Step out of the room ->","completion":" yes"}
+{"prompt":"Participate ->","completion":" invalid"}
+{"prompt":"Umbrella ->","completion":" invalid"}
+{"prompt":"Cook ->","completion":" invalid"}
+{"prompt":"Walk out of the establishment ->","completion":" yes"}
+{"prompt":"I don't the my home ->","completion":" no"}
+{"prompt":"Pass beyond the door ->","completion":" yes"}
+{"prompt":"Recline in bed once more ->","completion":" no"}
+{"prompt":"Stars ->","completion":" invalid"}
+{"prompt":"Fasten the door ->","completion":" no"}
+{"prompt":"Kite ->","completion":" invalid"}
+{"prompt":"Swing the door position ->","completion":" no"}
+{"prompt":"Flower ->","completion":" invalid"}
+{"prompt":"Exit the chamber ->","completion":" yes"}
+{"prompt":"Remain within the enclosed area ->","completion":" no"}
+{"prompt":"Depart from the vicinity ->","completion":" yes"}
+{"prompt":"Ingress through the entryway and into the exterior ->","completion":" yes"}
+{"prompt":"Secure the door ->","completion":" no"}
+{"prompt":"Access the outside ->","completion":" yes"}
+{"prompt":"Backpacking ->","completion":" invalid"}
+{"prompt":"Fly ->","completion":" invalid"}
+{"prompt":"Go back to resting in bed ->","completion":" no"}
+{"prompt":"Arrange ->","completion":" invalid"}
+{"prompt":"Ingress through the door ->","completion":" yes"}
+{"prompt":"Stay within the enclosed area ->","completion":" no"}
+{"prompt":"Microscope ->","completion":" invalid"}
+{"prompt":"Stay within the indoor environment ->","completion":" no"}
+{"prompt":"Transition from one side to the other ->","completion":" yes"}
+{"prompt":"Ring ->","completion":" invalid"}
+{"prompt":"Educate ->","completion":" invalid"}
+{"prompt":"Laptop ->","completion":" invalid"}
+{"prompt":"House ->","completion":" invalid"}
+{"prompt":"Remain within the walls ->","completion":" no"}
+{"prompt":"Go back to bed ->","completion":" no"}
+{"prompt":"Exit ->","completion":" yes"}
+{"prompt":"Step out of the facility ->","completion":" yes"}
+{"prompt":"Walk out of the room ->","completion":" yes"}
+{"prompt":"Step through the doorway ->","completion":" yes"}
+{"prompt":"Step outside ->","completion":" yes"}
+{"prompt":"Juggle ->","completion":" invalid"}
+{"prompt":"Share ->","completion":" invalid"}
+{"prompt":"Go outside the premises ->","completion":" yes"}
+{"prompt":"Leave the interior ->","completion":" yes"}
+{"prompt":"Pass through the doorway ->","completion":" yes"}
+{"prompt":"Fix ->","completion":" invalid"}
+{"prompt":"Lipstick ->","completion":" invalid"}
+{"prompt":"Leave the area ->","completion":" yes"}
+{"prompt":"Lower the door into a closed position ->","completion":" no"}
+{"prompt":"Plant ->","completion":" invalid"}
+{"prompt":"Remain in room ->","completion":" no"}
+{"prompt":"Leave the chamber ->","completion":" yes"}
+{"prompt":"Leave the premises ->","completion":" yes"}
+{"prompt":"Mirror ->","completion":" invalid"}
+{"prompt":"Walk ->","completion":" invalid"}
+{"prompt":"Keep within the indoor area ->","completion":" no"}
+{"prompt":"Walk across the entrance ->","completion":" yes"}
+{"prompt":"Stay inside ->","completion":" no"}
+{"prompt":"Dolphin ->","completion":" invalid"}
+{"prompt":"Go through the portal ->","completion":" yes"}
+{"prompt":"I leave the my home ->","completion":" yes"}
+{"prompt":"Bus ->","completion":" invalid"}
+{"prompt":"Perfume ->","completion":" invalid"}
+{"prompt":"Depart from the premises ->","completion":" yes"}
+{"prompt":"Book ->","completion":" invalid"}
+{"prompt":"Proceed through the entry and into the outside world ->","completion":" yes"}
+{"prompt":"Cross the doorframe ->","completion":" yes"}
+{"prompt":"Step outside the facility ->","completion":" yes"}
+{"prompt":"Glasses ->","completion":" invalid"}
+{"prompt":"Design ->","completion":" invalid"}
+{"prompt":"Walk away ->","completion":" yes"}
+{"prompt":"Develop ->","completion":" invalid"}
+{"prompt":"Spoon ->","completion":" invalid"}
+{"prompt":"Key ->","completion":" invalid"}
+{"prompt":"Teach ->","completion":" invalid"}
+{"prompt":"Campfire ->","completion":" invalid"}
+{"prompt":"Remain inside the indoor environment ->","completion":" no"}
+{"prompt":"Depart from the area ->","completion":" yes"}
+{"prompt":"Empower ->","completion":" invalid"}
+{"prompt":"Egress through the door ->","completion":" yes"}
+{"prompt":"Go out of the structure ->","completion":" yes"}
+{"prompt":"Pull the door open and pass through ->","completion":" yes"}
+{"prompt":"Stay within the enclosed space ->","completion":" no"}
+{"prompt":"Step out into the daylight ->","completion":" yes"}
+{"prompt":"Remain within the indoor area ->","completion":" no"}
+{"prompt":"Leave ->","completion":" yes"}
+{"prompt":"Cup ->","completion":" invalid"}
+{"prompt":"Close the door ->","completion":" no"}
+{"prompt":"Swimsuit ->","completion":" invalid"}
+{"prompt":"Proceed beyond the portal ->","completion":" yes"}
+{"prompt":"Bake ->","completion":" invalid"}
+{"prompt":"Skate ->","completion":" invalid"}
+{"prompt":"Hammock ->","completion":" invalid"}
+{"prompt":"Ski ->","completion":" invalid"}
+{"prompt":"Move to the outside by going through the door ->","completion":" yes"}
+{"prompt":"Sandwich ->","completion":" invalid"}
+{"prompt":"Walk out into nature ->","completion":" yes"}
+{"prompt":"Egress to the outdoor area ->","completion":" yes"}
+{"prompt":"Make your way out ->","completion":" yes"}
+{"prompt":"Cycle ->","completion":" invalid"}
+{"prompt":"Step out of the chamber ->","completion":" yes"}
+{"prompt":"Traverse the doorway ->","completion":" yes"}
+{"prompt":"Compass ->","completion":" invalid"}
+{"prompt":"Remain within the building ->","completion":" no"}
+{"prompt":"Explore ->","completion":" invalid"}
+{"prompt":"Serve ->","completion":" invalid"}
+{"prompt":"Egress from the space ->","completion":" yes"}
+{"prompt":"Connect ->","completion":" invalid"}
+{"prompt":"Leave the indoor environment ->","completion":" yes"}
+{"prompt":"Go outside via the door ->","completion":" yes"}
+{"prompt":"Remain within the indoor environment ->","completion":" no"}
+{"prompt":"Elephant ->","completion":" invalid"}
+{"prompt":"Pencil ->","completion":" invalid"}
+{"prompt":"Move through the doorway ->","completion":" yes"}
+{"prompt":"Step out of the premises ->","completion":" yes"}
+{"prompt":"Leave home ->","completion":" yes"}
+{"prompt":"Egress via the doorway ->","completion":" yes"}
+{"prompt":"Go through door ->","completion":" yes"}
+{"prompt":"Proceed out of the dorm ->","completion":" yes"}
+{"prompt":"Telescope ->","completion":" invalid"}
+{"prompt":"Depart through the doorway ->","completion":" yes"}
+{"prompt":"Soccer ->","completion":" invalid"}
+{"prompt":"Watermelon ->","completion":" invalid"}
+{"prompt":"Open the door and proceed through ->","completion":" yes"}
+{"prompt":"Telephone ->","completion":" invalid"}
+{"prompt":"Step out of the room through the door ->","completion":" yes"}
+{"prompt":"Map ->","completion":" invalid"}
+{"prompt":"Adapt ->","completion":" invalid"}
+{"prompt":"Stay of the room ->","completion":" no"}
+{"prompt":"I leave the room ->","completion":" yes"}
+{"prompt":"Hammer ->","completion":" invalid"}
+{"prompt":"Draw the door closed firmly ->","completion":" no"}
+{"prompt":"Run ->","completion":" invalid"}
+{"prompt":"Walk out of the facility ->","completion":" yes"}
+{"prompt":"Continue ->","completion":" yes"}
+{"prompt":"Analyze ->","completion":" invalid"}
+{"prompt":"Stay within the walls ->","completion":" no"}
+{"prompt":"Walk through the open door ->","completion":" yes"}
+{"prompt":"Wallet ->","completion":" invalid"}
+{"prompt":"Leave the building ->","completion":" yes"}
+{"prompt":"I open the door ->","completion":" yes"}
+{"prompt":"Newspaper ->","completion":" invalid"}
+{"prompt":"Sofa ->","completion":" invalid"}
+{"prompt":"Walk through the exit ->","completion":" yes"}
+{"prompt":"Mosquito ->","completion":" invalid"}
+{"prompt":"Keep within the indoor space ->","completion":" no"}
+{"prompt":"Rainbow ->","completion":" invalid"}
+{"prompt":"Push the door until it's closed ->","completion":" no"}
+{"prompt":"Exit the indoor space ->","completion":" yes"}
+{"prompt":"Jellyfish ->","completion":" invalid"}
+{"prompt":"Skip ->","completion":" no"}
+{"prompt":"Paint ->","completion":" invalid"}
+{"prompt":"I do not ->","completion":" no"}
+{"prompt":"Cross the threshold and exit ->","completion":" yes"}
+{"prompt":"Repair ->","completion":" invalid"}
+{"prompt":"Make your way from one side of the door to the other ->","completion":" yes"}
+{"prompt":"Remain within the structure ->","completion":" no"}
+{"prompt":"Ladder ->","completion":" invalid"}
+{"prompt":"Coffee ->","completion":" invalid"}
+{"prompt":"Tent ->","completion":" invalid"}
+{"prompt":"Go beyond the walls ->","completion":" yes"}
+{"prompt":"Research ->","completion":" invalid"}
+{"prompt":"Shoes ->","completion":" invalid"}
+{"prompt":"Foster ->","completion":" invalid"}
+{"prompt":"Rescue ->","completion":" invalid"}
+{"prompt":"Tissue ->","completion":" invalid"}
+{"prompt":"Step across the threshold ->","completion":" yes"}
+{"prompt":"Camera ->","completion":" invalid"}
+{"prompt":"Go outside via the doorway ->","completion":" yes"}
+{"prompt":"Draw the door shut ->","completion":" no"}
+{"prompt":"Celebrate ->","completion":" invalid"}
+{"prompt":"Move out of the space ->","completion":" yes"}
+{"prompt":"Gain access by going through the door ->","completion":" yes"}
+{"prompt":"Pillow ->","completion":" invalid"}
+{"prompt":"Leave the enclosed space ->","completion":" yes"}
+{"prompt":"Stay within the building ->","completion":" no"}
+{"prompt":"Beach ->","completion":" invalid"}
+{"prompt":"Door ->","completion":" invalid"}
+{"prompt":"Coach ->","completion":" invalid"}
+{"prompt":"Craft ->","completion":" invalid"}
+{"prompt":"Calculator ->","completion":" invalid"}
+{"prompt":"Present ->","completion":" invalid"}
+{"prompt":"Cross the threshold ->","completion":" yes"}
+{"prompt":"Leave the interior space ->","completion":" yes"}
+{"prompt":"Lie down in bed again ->","completion":" no"}
+{"prompt":"Walk out of dorm ->","completion":" yes"}
+{"prompt":"Horse ->","completion":" invalid"}
+{"prompt":"I go ahead ->","completion":" yes"}
+{"prompt":"Move out of the area ->","completion":" yes"}
+{"prompt":"Succeed ->","completion":" invalid"}
+{"prompt":"Sleep ->","completion":" no"}
+{"prompt":"Seal the door ->","completion":" no"}
+{"prompt":"Write ->","completion":" invalid"}
+{"prompt":"Achieve ->","completion":" invalid"}
+{"prompt":"Plan ->","completion":" invalid"}
+{"prompt":"Firewood ->","completion":" invalid"}
+{"prompt":"I don't move ->","completion":" no"}
+{"prompt":"Express ->","completion":" invalid"}
+{"prompt":"Go to the streets ->","completion":" yes"}
+{"prompt":"Tutor ->","completion":" invalid"}
+{"prompt":"Organize ->","completion":" invalid"}
+{"prompt":"Shut the door ->","completion":" no"}
+{"prompt":"Don't move outside ->","completion":" no"}
+{"prompt":"Harvest ->","completion":" invalid"}
+{"prompt":"Remain indoors ->","completion":" no"}
+{"prompt":"Hanger ->","completion":" invalid"}
+{"prompt":"Program ->","completion":" invalid"}
+{"prompt":"Experiment ->","completion":" invalid"}
+{"prompt":"Step outside the room ->","completion":" yes"}
+{"prompt":"Ingress through ->","completion":" yes"}
+{"prompt":"Snap the door shut ->","completion":" no"}
+{"prompt":"Upgrade ->","completion":" invalid"}
+{"prompt":"Execute ->","completion":" invalid"}
+{"prompt":"Leave the space ->","completion":" yes"}
+{"prompt":"Do not exit dorm ->","completion":" no"}
+{"prompt":"Exit dorm by passing through the door ->","completion":" yes"}
+{"prompt":"Implement ->","completion":" invalid"}
+{"prompt":"Exit the location ->","completion":" yes"}
+{"prompt":"Make sure the door is closed ->","completion":" no"}
+{"prompt":"Close door ->","completion":" no"}
+{"prompt":"Go to the bathroom ->","completion":" no"}
+{"prompt":"Sandcastle ->","completion":" invalid"}
+{"prompt":"Move outside the premises ->","completion":" yes"}
+{"prompt":"I open the door and go outside ->","completion":" yes"}
+{"prompt":"Walk outside ->","completion":" yes"}
+{"prompt":"Chess ->","completion":" invalid"}
+{"prompt":"Go outside of the building ->","completion":" yes"}
+{"prompt":"Draw the door to a close ->","completion":" no"}
+{"prompt":"Surfboard ->","completion":" invalid"}
+{"prompt":"Swing the door shut with force ->","completion":" no"}
+{"prompt":"Sand ->","completion":" invalid"}
+{"prompt":"Leave the indoor area ->","completion":" yes"}
+{"prompt":"Position the door in a closed state ->","completion":" no"}
+{"prompt":"Invest ->","completion":" invalid"}
+{"prompt":"Skateboard ->","completion":" invalid"}
+{"prompt":"Balloon ->","completion":" invalid"}
+{"prompt":"Make your way out of the room ->","completion":" yes"}
+{"prompt":"Egress from the interior ->","completion":" yes"}
+{"prompt":"Keep inside the facility ->","completion":" no"}
+{"prompt":"Plane ->","completion":" invalid"}
+{"prompt":"Go past the doorframe ->","completion":" yes"}
+{"prompt":"Proceed ->","completion":" yes"}
+{"prompt":"Push the door until it's snugly closed ->","completion":" no"}
+{"prompt":"Shut the door tightly ->","completion":" no"}
+{"prompt":"Build ->","completion":" invalid"}
+{"prompt":"Grow ->","completion":" invalid"}
+{"prompt":"Exit home ->","completion":" yes"}
+{"prompt":"Go into the next space by passing through the doorway ->","completion":" yes"}
+{"prompt":"No ->","completion":" no"}
+{"prompt":"Walk out of the structure ->","completion":" yes"}
+{"prompt":"Stay inside the enclosed space ->","completion":" no"}
+{"prompt":"Volunteer ->","completion":" invalid"}
+{"prompt":"Enrich ->","completion":" invalid"}
+{"prompt":"Move outside ->","completion":" yes"}
+{"prompt":"Keep within the establishment ->","completion":" no"}
+{"prompt":"I will never leave my room ->","completion":" no"}
+{"prompt":"Oven ->","completion":" invalid"}
+{"prompt":"Window ->","completion":" invalid"}
+{"prompt":"Exit room ->","completion":" yes"}
+{"prompt":"Desk ->","completion":" invalid"}
+{"prompt":"Blanket ->","completion":" invalid"}
+{"prompt":"Leave the indoor confines ->","completion":" yes"}
+{"prompt":"I run out of the room ->","completion":" yes"}
+{"prompt":"Keep within the walls ->","completion":" no"}
+{"prompt":"I keep inside ->","completion":" no"}
+{"prompt":"Stay within the premises ->","completion":" no"}
+{"prompt":"Remain ->","completion":" no"}
+{"prompt":"Depart from the location ->","completion":" yes"}
+{"prompt":"Avoid leaving the building ->","completion":" no"}
+{"prompt":"Salad ->","completion":" invalid"}
+{"prompt":"Step outside the premises ->","completion":" yes"}
+{"prompt":"Cloud ->","completion":" invalid"}
+{"prompt":"Swim ->","completion":" invalid"}
+{"prompt":"Walk outdoors ->","completion":" yes"}
+{"prompt":"T-shirt ->","completion":" invalid"}
+{"prompt":"Pass into the next space ->","completion":" yes"}
+{"prompt":"Place the door in the closed position ->","completion":" no"}
+{"prompt":"Walk out of the premises ->","completion":" yes"}
+{"prompt":"Pull the door closed firmly ->","completion":" no"}
+{"prompt":"Chairlift ->","completion":" invalid"}
+{"prompt":"Depart from the building ->","completion":" yes"}
+{"prompt":"Exit via the door ->","completion":" yes"}
+{"prompt":"Close the door with a firm pull ->","completion":" no"}
+{"prompt":"Sponge ->","completion":" invalid"}
+{"prompt":"Rain ->","completion":" invalid"}
+{"prompt":"Snap the door into a closed position ->","completion":" no"}
+{"prompt":"Pass through the doorway and into the space beyond ->","completion":" yes"}
+{"prompt":"Luggage ->","completion":" invalid"}
+{"prompt":"Make your way through the door ->","completion":" yes"}
+{"prompt":"Interact ->","completion":" invalid"}
+{"prompt":"River ->","completion":" invalid"}
+{"prompt":"Access campus through the door ->","completion":" yes"}
+{"prompt":"Trek ->","completion":" invalid"}
+{"prompt":"Communicate ->","completion":" invalid"}
+{"prompt":"Dog ->","completion":" invalid"}
+{"prompt":"Volleyball ->","completion":" invalid"}
+{"prompt":"Read ->","completion":" invalid"}
+{"prompt":"Crawl back under the covers ->","completion":" no"}
+{"prompt":"Learn ->","completion":" invalid"}
+{"prompt":"Dinosaur ->","completion":" invalid"}
+{"prompt":"Chair ->","completion":" invalid"}
+{"prompt":"Stay ->","completion":" no"}
+{"prompt":"Walk out of the door ->","completion":" yes"}
+{"prompt":"Stay inside the building ->","completion":" no"}
+{"prompt":"Basketball ->","completion":" invalid"}
+{"prompt":"Knit ->","completion":" invalid"}
+{"prompt":"Return to bed ->","completion":" no"}
+{"prompt":"Go outside the room by passing through the door ->","completion":" yes"}
+{"prompt":"Solve ->","completion":" invalid"}
+{"prompt":"Travel ->","completion":" invalid"}
+{"prompt":"Stay inside the facility ->","completion":" no"}
+{"prompt":"Painting ->","completion":" invalid"}
+{"prompt":"Push the door until it's fully closed ->","completion":" no"}
+{"prompt":"Depart from the interior ->","completion":" yes"}
+{"prompt":"Keep inside the indoor environment ->","completion":" no"}
+{"prompt":"Lamp ->","completion":" invalid"}
+{"prompt":"Keep still ->","completion":" no"}
+{"prompt":"Mentor ->","completion":" invalid"}
+{"prompt":"Return to your bed ->","completion":" no"}
+{"prompt":"Depart from the establishment ->","completion":" yes"}
+{"prompt":"Discover ->","completion":" invalid"}
+{"prompt":"Step out of the doorway ->","completion":" yes"}
+{"prompt":"Necklace ->","completion":" invalid"}
+{"prompt":"Go out of the room ->","completion":" yes"}
+{"prompt":"Carrot ->","completion":" invalid"}
+{"prompt":"Drive ->","completion":" invalid"}
+{"prompt":"Hat ->","completion":" invalid"}
+{"prompt":"Walk through the portal and into the space beyond ->","completion":" yes"}
+{"prompt":"Moonlight ->","completion":" invalid"}
+{"prompt":"Walk through the doorway ->","completion":" yes"}
+{"prompt":"Move beyond the door ->","completion":" yes"}
+{"prompt":"Remain within the facility ->","completion":" no"}
+{"prompt":"Chocolate ->","completion":" invalid"}
+{"prompt":"Go through the entrance ->","completion":" yes"}
+{"prompt":"Climb ->","completion":" invalid"}
+{"prompt":"Shirt ->","completion":" invalid"}
+{"prompt":"Ensure the door is closed securely ->","completion":" no"}
+{"prompt":"Clock ->","completion":" invalid"}
+{"prompt":"Enter the premises through the open door ->","completion":" yes"}
+{"prompt":"Move beyond the walls ->","completion":" yes"}
+{"prompt":"Egress from the building ->","completion":" yes"}
+{"prompt":"Play ->","completion":" invalid"}
+{"prompt":"Avoid stepping out ->","completion":" no"}
+{"prompt":"Assist ->","completion":" invalid"}
+{"prompt":"Shampoo ->","completion":" invalid"}
+{"prompt":"Sunglasses ->","completion":" invalid"}
+{"prompt":"Influence ->","completion":" invalid"}
+{"prompt":"Park ->","completion":" invalid"}
+{"prompt":"Sail ->","completion":" invalid"}
+{"prompt":"Move through the door and into the streets ->","completion":" yes"}
+{"prompt":"Tree ->","completion":" invalid"}
+{"prompt":"Egress from the indoor location ->","completion":" yes"}
+{"prompt":"Surf ->","completion":" invalid"}
+{"prompt":"Pass ->","completion":" no"}
+{"prompt":"Egress from the indoor space ->","completion":" yes"}
+{"prompt":"Move out of the chamber ->","completion":" yes"}
+{"prompt":"Hiking ->","completion":" invalid"}
+{"prompt":"Garden ->","completion":" invalid"}
+{"prompt":"Maintain ->","completion":" invalid"}
+{"prompt":"Bag ->","completion":" invalid"}
+{"prompt":"Adopt ->","completion":" invalid"}
+{"prompt":"Guitar ->","completion":" invalid"}
+{"prompt":"Contribute ->","completion":" invalid"}
+{"prompt":"Affix the door in a closed position ->","completion":" no"}
+{"prompt":"Rose ->","completion":" invalid"}
+{"prompt":"Purchase ->","completion":" invalid"}
+{"prompt":"Collect ->","completion":" invalid"}
+{"prompt":"Proceed to the next area by going through the door ->","completion":" yes"}
+{"prompt":"Depart through the exit ->","completion":" yes"}
+{"prompt":"Nurture ->","completion":" invalid"}
+{"prompt":"Negotiate ->","completion":" invalid"}
+{"prompt":"Accomplish ->","completion":" invalid"}
+{"prompt":"Improve ->","completion":" invalid"}
+{"prompt":"Settle back into bed ->","completion":" no"}
+{"prompt":"Egress through the exit ->","completion":" yes"}
+{"prompt":"Moon ->","completion":" invalid"}
+{"prompt":"Stay inside the structure ->","completion":" no"}
+{"prompt":"Bring the door to a tight close ->","completion":" no"}
+{"prompt":"Backpack ->","completion":" invalid"}
+{"prompt":"Move out through the door ->","completion":" yes"}
+{"prompt":"Jump ->","completion":" invalid"}
+{"prompt":"Walk out through the exit ->","completion":" yes"}
+{"prompt":"Egress from the indoor area ->","completion":" yes"}
+{"prompt":"Fish ->","completion":" invalid"}
+{"prompt":"Keep within the facility ->","completion":" no"}
+{"prompt":"Avoid going outdoors ->","completion":" no"}
+{"prompt":"Make your way through the door and make your way outside ->","completion":" yes"}
+{"prompt":"Pass through the doorway and access the streets ->","completion":" yes"}
+{"prompt":"Mountain ->","completion":" invalid"}
+{"prompt":"Coordinate ->","completion":" invalid"}
+{"prompt":"Inspire ->","completion":" invalid"}
+{"prompt":"Go into the outdoor environment ->","completion":" yes"}
+{"prompt":"Sun ->","completion":" invalid"}
+{"prompt":"Donate ->","completion":" invalid"}
+{"prompt":"Invent ->","completion":" invalid"}
+{"prompt":"Leave the room ->","completion":" yes"}
+{"prompt":"Keyboard ->","completion":" invalid"}
+{"prompt":"Bring the door to a close ->","completion":" no"}
+{"prompt":"Pen ->","completion":" invalid"}
+{"prompt":"I lock the door ->","completion":" no"}
+{"prompt":"Cross the threshold and access the exterior ->","completion":" yes"}
+{"prompt":"Tape ->","completion":" invalid"}
+{"prompt":"Starfish ->","completion":" invalid"}
+{"prompt":"Exit via the doorway ->","completion":" yes"}
+{"prompt":"Cat ->","completion":" invalid"}
+{"prompt":"Stay in here ->","completion":" no"}
+{"prompt":"Step outside the chamber ->","completion":" yes"}
+{"prompt":"Exit dorm room ->","completion":" yes"}
+{"prompt":"Turn the door handle to close the door ->","completion":" no"}
+{"prompt":"Open the door and leave ->","completion":" yes"}
+{"prompt":"Avoid going outside ->","completion":" no"}
+{"prompt":"Egress to the outdoors ->","completion":" yes"}
+{"prompt":"Tennis ->","completion":" invalid"}
+{"prompt":"Walk out of the chamber ->","completion":" yes"}
+{"prompt":"Go outside ->","completion":" yes"}
+{"prompt":"Do not walk out of home ->","completion":" no"}
+{"prompt":"I stay the dorm ->","completion":" no"}
+{"prompt":"Egress from the area ->","completion":" yes"}
+{"prompt":"Egress from the room ->","completion":" yes"}
+{"prompt":"Globe ->","completion":" invalid"}
+{"prompt":"Loan ->","completion":" invalid"}
+{"prompt":"Stapler ->","completion":" invalid"}
+{"prompt":"Leave the enclosed area ->","completion":" yes"}
+{"prompt":"Adventure ->","completion":" invalid"}
+{"prompt":"Step outside through the door ->","completion":" yes"}
+{"prompt":"Negative ->","completion":" no"}
+{"prompt":"Keep inside the establishment ->","completion":" no"}
+{"prompt":"Pizza ->","completion":" invalid"}
+{"prompt":"Hunt ->","completion":" invalid"}
+{"prompt":"Boat ->","completion":" invalid"}
+{"prompt":"Move out of the location ->","completion":" yes"}
+{"prompt":"Lemon ->","completion":" invalid"}
+{"prompt":"Proceed indoors ->","completion":" no"}
+{"prompt":"Snowflake ->","completion":" invalid"}
+{"prompt":"Music ->","completion":" invalid"}
+{"prompt":"Leave the indoor space behind ->","completion":" yes"}
+{"prompt":"Collaborate ->","completion":" invalid"}
+{"prompt":"Click the door closed ->","completion":" no"}
+{"prompt":"Weave ->","completion":" invalid"}
+{"prompt":"Guide ->","completion":" invalid"}
+{"prompt":"Remain inside the premises ->","completion":" no"}
+{"prompt":"Move beyond the entryway ->","completion":" yes"}
+{"prompt":"Exit dorm ->","completion":" yes"}
+{"prompt":"Keep inside the indoor area ->","completion":" no"}
+{"prompt":"Leaf ->","completion":" invalid"}
+{"prompt":"Car ->","completion":" invalid"}
+{"prompt":"Move through the portal and into the outside ->","completion":" yes"}
+{"prompt":"Move outside the establishment ->","completion":" yes"}
+{"prompt":"Orange ->","completion":" invalid"}
+{"prompt":"Waterfall ->","completion":" invalid"}
+{"prompt":"Move outside the building ->","completion":" yes"}
+{"prompt":"Sculpt ->","completion":" invalid"}
+{"prompt":"Exit the premises ->","completion":" yes"}
+{"prompt":"Exit the premises through the door ->","completion":" yes"}
+{"prompt":"Drop the door into a closed state ->","completion":" no"}
+{"prompt":"Go into the open space ->","completion":" yes"}
+{"prompt":"Exit through the door ->","completion":" yes"}
+{"prompt":"Instruct ->","completion":" invalid"}
