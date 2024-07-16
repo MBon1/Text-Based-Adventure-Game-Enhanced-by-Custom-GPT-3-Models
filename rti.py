@@ -268,9 +268,7 @@ def movement(x:str, north, east, south, west, default):
   if (x == "" or x.isspace()):
     default
 
-  #ft_model = 'ada:ft-personal-2023-04-20-02-30-36'
-  #ft_model = 'ada:ft-personal-2023-04-26-20-29-36'
-  ft_model = 'ada:ft-personal-2023-04-26-21-18-03'
+  ft_model = 'ft:davinci-002:personal:rti-movement-v2:9kLKMmJE'
   res = openai.Completion.create(model=ft_model, prompt=x + ' ->', max_tokens=1, temperature=0)
   action = res['choices'][0]['text']
   #action = x
@@ -297,8 +295,7 @@ def dorm_event():
     if (x == "" or x.isspace()):
       dorm_salute.add_event("input", ("", dorm_event_salute))
     else:
-      #ft_model = 'ada:ft-personal-2023-04-20-01-30-22'
-      ft_model = 'ada:ft-personal-2023-04-26-20-01-47'
+      ft_model = 'ft:davinci-002:personal:rti-poster:9kMaDBz5'
       res = openai.Completion.create(model=ft_model, prompt=x + ' ->', max_tokens=1, temperature=0)
       action = res['choices'][0]['text']
       
@@ -323,9 +320,7 @@ def dorm_event():
       dorm_door.process_events()
       return
 
-    #ft_model = 'curie:ft-personal-2023-04-20-03-22-25'
-    #ft_model = 'ada:ft-personal-2023-04-26-20-46-25'
-    ft_model = 'curie:ft-personal-2023-04-26-21-33-49'
+    ft_model = 'ft:davinci-002:personal:rti-leave-room:9kMZtScf'
     res = openai.Completion.create(model=ft_model, prompt=x + ' ->', max_tokens=1, temperature=0)
     action = res['choices'][0]['text']
 
@@ -406,8 +401,7 @@ def streets_event():
       if (x == "" or x.isspace()):
         officer_salute.add_event("input", ("", streets_event_officer_salute))
       else:
-        #ft_model = 'ada:ft-personal-2023-04-20-01-30-22'
-        ft_model = 'ada:ft-personal-2023-04-26-20-01-47'
+        ft_model = 'ft:davinci-002:personal:rti-poster:9kMaDBz5'
         res = openai.Completion.create(model=ft_model, prompt=x + ' ->', max_tokens=1, temperature=0)
         action = res['choices'][0]['text']
 
@@ -454,8 +448,7 @@ def dining_hall_event():
     food_events = Events()
     food_events.add_event("dialogue", Dialogue("", "",""))
 
-    #ft_model = 'ada:ft-personal-2023-04-26-13-06-29'
-    ft_model = 'ada:ft-personal-2023-04-26-22-12-41'
+    ft_model = 'ft:davinci-002:personal:rti-movement-v2:9kLKMmJE'
     res = openai.Completion.create(model=ft_model, prompt=x + ' ->', max_tokens=1, temperature=0)
     action = res['choices'][0]['text']
 

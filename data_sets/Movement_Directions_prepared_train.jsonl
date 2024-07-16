@@ -862,3 +862,12 @@
 {"prompt":"Halfway point ->","completion":" invalid"}
 {"prompt":"Map ->","completion":" invalid"}
 {"prompt":"Southerly ->","completion":" south"}
+{"prompt":"I make a hard right ->","completion":" east"}
+{"prompt":"Right ->","completion":" east"}
+{"prompt":"Left ->","completion":" west"}
+{"prompt":"Forward ->","completion":" north"}
+{"prompt":"Back ->","completion":" south"}
+{"prompt":"Move ahead ->","completion":" north"}
+{"prompt":"Backward ->","completion":" south"}
+{"prompt":"Travel to the left ->","completion":" west"}
+{"prompt":"Continue to the right ->","completion":" east"}

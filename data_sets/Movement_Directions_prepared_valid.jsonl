@@ -214,3 +214,12 @@
 {"prompt":"Do not Walk towards the north ->","completion":" invalid"}
 {"prompt":"Refuse to Progress towards the west ->","completion":" invalid"}
 {"prompt":"Refuse to Progress towards the northern horizon ->","completion":" invalid"}
+{"prompt":"I decide to move ahead ->","completion":" north"}
+{"prompt":"Move backwards ->","completion":" south"}
+{"prompt":"Step back ->","completion":" south"}
+{"prompt":"Continue forward ->","completion":" north"}
+{"prompt":"I make a right ->","completion":" east"}
+{"prompt":"Veer to the left ->","completion":" west"}
+{"prompt":"Veer to the right ->","completion":" east"}
+{"prompt":"I travel to the right ->","completion":" east"}
+{"prompt":"I continue to the left ->","completion":" west"}
